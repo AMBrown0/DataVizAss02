@@ -30,7 +30,7 @@ import matplotlib.ticker as mtick
 # output = json.loads(data)
 
 
-#==============================Part 1 - Question 1b =================================
+#==============================Part 1 =================================
 dataFolder=Path(r'.')
 filename="OxCGRT_summary20200520.csv"
 dataFile= dataFolder / filename
@@ -45,8 +45,17 @@ cc_df_null=cc_df[cc_df.isnull().any(axis=1)]
 
 
 
-ocgrt_all_df = ocgrt_df.set_index('CountryCode').join(cc_df.set_index('CountryCode'))
+ocgrt_all_df = (ocgrt_df.set_index('CountryCode').join(cc_df.set_index('CountryCode'))).reset_index()
+
 ocgrt_all_null_df=ocgrt_all_df[ocgrt_all_df.isnull().any(axis=1)]
+ocgrt_cc_null_df=ocgrt_all_df.CountryName[ocgrt_all_df['Continent_Name'].isnull()].unique()
+print("Countries with Null Continent_Name=%s" %ocgrt_cc_null_df)
+
+#As Kosovo has a null contient, RKS Not in offieal ISO3166 codes country-and-continent.csv 
+# Setting Kosovo to same contient as Serbia = Europe
+ocgrt_all_df.loc[ocgrt_all_df['Continent_Name'].isnull(),'Continent_Name']="Europe"
+#ocgrt_all_df[ocgrt_all_df['Continent_Name'].isnull()]
+
 #stringencyindex_legacy_df = pd.read_excel (dataFile,sheet_name='stringencyindex_legacy')
 #confirmedcases_df = pd.read_excel (dataFile,sheet_name='confirmedcases')
 #confirmeddeaths_df = pd.read_excel (dataFile,sheet_name='confirmeddeaths')
