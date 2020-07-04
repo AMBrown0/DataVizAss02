@@ -30,7 +30,26 @@ import matplotlib.ticker as mtick
 # output = json.loads(data)
 
 
-#==============================Part 1 =================================
+def fillNulls(group):
+    #==============================Question  2 =================================
+    country=(group.iloc[0,1])
+    no_nulls=len(group[group['ConfirmedDeaths'].isnull()])
+    if (no_nulls == 0):
+        return group
+
+    # Sort date of columns into date order so interpolation fill correctly in date order
+    group=group.sort_values(by=['Date'])
+    if ( np.isnan(group.iloc[0,5])):        
+        group.iloc[0,5]=0
+    if ( np.isnan(group.iloc[0,6])):        
+        group.iloc[0,6]=0
+
+    #Interpolate remaining data
+    group=group.interpolate()
+    print("Updating nulls for Country=%s" %country)
+    return group
+    
+#==============================Question  1 =================================
 dataFolder=Path(r'.')
 filename="OxCGRT_summary20200520.csv"
 dataFile= dataFolder / filename
@@ -46,16 +65,40 @@ cc_df_null=cc_df[cc_df.isnull().any(axis=1)]
 
 
 ocgrt_all_df = (ocgrt_df.set_index('CountryCode').join(cc_df.set_index('CountryCode'))).reset_index()
-
 ocgrt_all_null_df=ocgrt_all_df[ocgrt_all_df.isnull().any(axis=1)]
 ocgrt_cc_null_df=ocgrt_all_df.CountryName[ocgrt_all_df['Continent_Name'].isnull()].unique()
 print("Countries with Null Continent_Name=%s" %ocgrt_cc_null_df)
 
 #As Kosovo has a null contient, RKS Not in offieal ISO3166 codes country-and-continent.csv 
 # Setting Kosovo to same contient as Serbia = Europe
-ocgrt_all_df.loc[ocgrt_all_df['Continent_Name'].isnull(),'Continent_Name']="Europe"
-#ocgrt_all_df[ocgrt_all_df['Continent_Name'].isnull()]
 
+#==============================Question  2 =================================
+ocgrt_all_df.loc[ocgrt_all_df['Continent_Name'].isnull(),'Continent_Name']="Europe"
+ocgrt_all_fill_df=ocgrt_all_df.groupby('CountryName').apply(lambda group: fillNulls(group))
+
+
+#
+# for name,group in o_null_group:
+#     print("Name=%s" % name)
+#     print("Group=%s" % group)
+#     if ( np.isnan(group.iloc[0,5])):        
+#             print("First Value for confirmed cases in %s is null setting to 0" % name)
+#             group.iloc[0,5]=0
+#     if ( np.isnan(group.iloc[0,6])):        
+#             print("First Value for confirmed deaths in %s is null setting to 0" % name)
+#             group.iloc[0,6]=0
+#     #Interpolate remaining data
+#     group=group.interpolate()
+#     print("Group after interpolations=%s" %group)
+#     #updated_group=group['ConfirmedCases'].ffill()
+#     #print("Updated Group=%s" % updated_group)
+#     #Check first value is Nan and set to 0 if so fo interpolate wil fill 
+          
+ 
+ 
+#ocgrt_all_df=ocgrt_all_df.ffill(axis=1)
+#ocgrt_all_df[ocgrt_all_df['Continent_Name'].isnull()]
+ 
 #stringencyindex_legacy_df = pd.read_excel (dataFile,sheet_name='stringencyindex_legacy')
 #confirmedcases_df = pd.read_excel (dataFile,sheet_name='confirmedcases')
 #confirmeddeaths_df = pd.read_excel (dataFile,sheet_name='confirmeddeaths')
