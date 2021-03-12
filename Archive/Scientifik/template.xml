@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<templates>
+	<template category="Poster">
+		<name>Scientifik</name>
+		<file>Scientifik.sla</file>
+		<tnail>Scientifiktn.png</tnail>
+		<img>Scientifik.png</img>
+		<psize>custom, 3370x2384</psize>
+		<color></color>
+		<descr>Scientifik is a graphic take on a scientific poster. Add your own pictures, style your charts and graphs... the possibilities are endless!</descr>
+		<usage>Norbert, Scientifik, 4/06/2018. URL: http://scribus-templates.net
+Copyleft: This is a free work, you can copy, distribute, and modify it under the terms of the Free Art License
+http://artlibre.org/licence/lal/en/</usage>
+		<scribus_version>1.4.8</scribus_version>
+		<date>2019-07-02</date>
+		<author>scribus-templates.net</author>
+		<email>info@scribus-templates.net</email>
+	</template>
+</templates>

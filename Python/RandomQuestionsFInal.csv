@@ -1,0 +1,56 @@
+﻿id,category,parent,name,questiontext,defaultmark,penalty,quizid,questioncategoryid,israndom
+435,58,0,Q01,"<p>Which of these file extensions would you apply to remove editing rights to the contents?</p>",1.0000000,0.3333333,,,y
+436,58,0,Q02,"<p>Which of these file extensions are commonly associated with images?</p>",1.0000000,0.3333333,,,y
+437,58,0,Q03,"<p>Which high level menu option is commonly missing from the ribbon in Word, Excel and PowerPoint, yet is always available to add?</p>",1.0000000,0.3333333,,,y
+438,58,0,Q04,"<p>Which of these software products is not commonly used to analyse data?</p>",1.0000000,0.3333333,,,y
+439,58,0,Q05,"<p>Dashboards, charts, and graphs are common software features used to visualise what?</p>",1.0000000,0.3333333,,,y
+440,58,0,Q06,"<p>Which software is most commonly used to create slide shows?</p>",1.0000000,0.3333333,,,y
+441,58,0,Q07,"<p>Which software application is more likely to be used when editing or creating a file with a .JPEG file extension?</p>",1.0000000,0.3333333,,,y
+442,58,0,Q08,"<p>Which of these is a repository used to store different electronic files and allows employees and teams to access them?</p>",1.0000000,0.3333333,,,y
+443,59,0,Q01,"<p>Which of these platforms is routinely used to securely share internal company information with employees?</p>",1.0000000,0.3333333,,,y
+444,59,0,Q02,"<p>Which of the following is a key feature of a company SharePoint site? </p>",1.0000000,0.3333333,,,y
+445,59,0,Q03,"<p>The main purpose of a company’s helpdesk software is the ability to?</p>",1.0000000,0.3333333,,,y
+446,59,0,Q04,"<p>SharePoint is what type of digital information system?</p>",1.0000000,0.3333333,,,y
+447,59,0,Q05,"<p>Which of the following is <strong>typically</strong> considered a secure location to share company documents?</p>",1.0000000,0.3333333,,,y
+448,60,0,Q01,"<p>It is considered best practice for staff bringing their own devices to work, to connect to which network for access to the internet?  </p>",1.0000000,0.3333333,,,y
+449,60,0,Q02,"<p>It is considered to be best practice to ensure that all mobile devices are updated to the latest O/S software version so that?</p>",1.0000000,0.3333333,,,y
+450,60,0,Q03,"<p>When providing Wi-Fi Internet access to company visitors it is best practice to?</p>",1.0000000,0.3333333,,,y
+451,60,0,Q04,"<p>When a member of staff is in the office and trying to connect to the Company network via a cabled connection rather than Wi-Fi they will need which type of cable?</p>",1.0000000,0.3333333,,,y
+452,60,0,Q05,"<p>A member of staff is trying to connect their laptop to a TV screen to deliver a presentation, however their laptop only has VGA connection.  What type of adaptor are they mostly likely to need?</p>",1.0000000,0.3333333,,,y
+453,60,0,Q06,"<p>Which test should typically be carried out every 12 months to ensure that portable electrical appliances used in an office environment are safe?</p>",1.0000000,0.3333333,,,y
+454,61,0,Q01,"<p>In an Agile project what is the specific name given to the allocation of time for work to be completed in?</p>",1.0000000,0.3333333,,,y
+455,61,0,Q02,"<p>A daily scrum is a common ceremony associated with Agile projects, what is it also known as?</p>",1.0000000,0.3333333,,,y
+456,61,0,Q03,"<p>The person who typically facilitates the daily scrum and supports the product owner and development team in solving issues and providing guidance is known as what?</p>",1.0000000,0.3333333,,,y
+457,61,0,Q04,"<p>The practice of Continuous Innovation and Continuous Development is most closely linked to which software development practice?</p>",1.0000000,0.3333333,,,y
+458,61,0,Q05,"<p>The practice of Continuous Innovation and Continuous Development is most closely aligned to which development methodology?</p>",1.0000000,0.3333333,,,y
+459,62,0,Q01,"<p>A person working in a Finance Department is most likely to utilise which digital technology to perform their role?</p>",1.0000000,0.3333333,,,y
+460,62,0,Q02,"<p>A person working in a Human Resources department may utilise which digital technology to perform their role?</p>",1.0000000,0.3333333,,,y
+461,62,0,Q03,"<p>A person working in Sales &amp; Marketing may utilise which digital technology to perform their role?</p>",1.0000000,0.3333333,,,y
+462,62,0,Q04,"<p>A person working in HR is most likely to depend on which digital technology to perform their role?</p>",1.0000000,0.3333333,,,y
+463,62,0,Q05,"<p>A person working in Sales &amp; Marketing is most likely to depend on which digital technology to perform their role?</p>",1.0000000,0.3333333,,,y
+480,64,0,CAT1-01,"<p>Which of the following is <strong>not</strong> a video communication platform?</p>",1.0000000,0.3333333,,,y
+481,64,0,CAT1-05,"<p>Which of the following is <strong>not</strong> classed as a peripheral hardware devise?</p>",1.0000000,0.3333333,,,y
+483,64,0,CAT1-04,"<p>Which of the following is<strong> not</strong> an example of handling data securely?</p>",1.0000000,0.3333333,,,y
+487,64,0,CAT1-03,"<p>Which of the following is primarily used for processing and presenting data?</p>",1.0000000,0.3333333,,,y
+505,65,0,CAT2-01,"<p>Which policy or procedure would cover information security?</p>",1.0000000,0.3333333,,,y
+506,65,0,CAT2-02,"<p>Which of the following is a type of threat to an organisation?</p>",1.0000000,0.3333333,,,y
+507,65,0,CAT2-03,"<p>Which of the following would be the most likely reason to change your password?</p>",1.0000000,0.3333333,,,y
+508,65,0,CAT2-04,"<p>Who should you inform if your encounter a data breach?</p>",1.0000000,0.3333333,,,y
+509,65,0,CAT2-05,"<p>How would you safeguard your organisations brand?</p>",1.0000000,0.3333333,,,y
+510,67,0,Q01,"<p>A number of staff have identified additional system functionality that would aid their job role.  What would be the best way for their manager to communicate this information to their in-house software development team?</p>",1.0000000,0.3333333,,,y
+511,67,0,Q02,"<p>A new software platform has been developed for your team to improve performance, how might you get involved in the development of this new software platform?</p>",1.0000000,0.3333333,,,y
+512,67,0,Q03,"<p>As an experienced user of a digital platform, how would you support the roll out and adoption of the platform to new users?</p>",1.0000000,0.3333333,,,y
+513,67,0,Q04,"<p>An aging digital platform is due an urgent upgrade, as an experienced user of this platform how could you support the development team working on this upgrade by?</p>",1.0000000,0.3333333,,,y
+514,68,0,Q01,"<p>An informal and interactive way to keep employees updated about the organisations use of digital tools could be?</p>",1.0000000,0.3333333,,,y
+515,68,0,Q02,"<p>An informal resource for individual employees to access additional user information on an organisations digital tools could be?</p>",1.0000000,0.3333333,,,y
+516,68,0,Q03,"<p>A dynamic resource designed to support new users, collated and kept up to date by a specialist in the use of an organisations digital tools, could be?</p>",1.0000000,0.3333333,,,y
+517,68,0,Q04,"<p>A way to keep employees aware of an update or change in the functionality of a digital tool or platform is likely to be achieved by sharing what from the developers?</p>",1.0000000,0.3333333,,,y
+518,68,0,Q05,"<p>The best method for ensuring that all staff are able to adequately use their organisation's digital tools and keep up to date with the latest functionality, is what?</p>",1.0000000,0.3333333,,,y
+519,68,0,Q06,"<p>What could a business put in place to support staff and the effective use of their digital tools and platforms?</p>",1.0000000,0.3333333,,,y
+520,69,0,Q01,"<p>Which of these is <strong>not </strong>a cloud service provider?</p>",1.0000000,0.3333333,,,y
+521,69,0,Q02,"<p>When referring to off premise what is typically being discussed?</p>",1.0000000,0.3333333,,,y
+522,69,0,Q03,"<p>Which of the following is<strong> not</strong> typically know as a data storage device?</p>",1.0000000,0.3333333,,,y
+523,69,0,Q04,"<p>Correctly identify the three different types of cloud provision:</p>",1.0000000,0.3333333,,,y
+524,69,0,Q05,"<p>A system primarily used for reporting and analysing live structured data in a central collection point from a number of different data sources is known as what?</p>",1.0000000,0.3333333,,,y
+525,69,0,Q06,"<p>A repository which can contain a combination of raw data, transformed data, semi-structured, structured and unstructured data is known as what?</p>",1.0000000,0.3333333,,,y
+526,69,0,Q07,"<p>Data that presents itself in a collection of tables, each consisting of columns with multiple records (rows) in a structured format is known as what?</p>",1.0000000,0.3333333,,,y

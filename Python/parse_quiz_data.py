@@ -36,7 +36,8 @@ from docx import Document
 # =============================================================================
 # Global varaibles
 # =============================================================================
-
+question_statistics=pd.DataFrame()
+difficult_threshold={"min":0.3,"max":0.9}
 
 # =============================================================================
 # Functions
@@ -72,6 +73,45 @@ for attempt in dataset_cleansed.iterrows():
         question_no+=1    
         print("Attempt[{}] Question[{}] Answer={}".format(set,question_no,answer))
 
+num_columns=len(dataset_cleansed.columns)
+num_responses=len(dataset_cleansed)
+
+for column_no in range(0,16):
+    #print(column_no)
+    correct_answer=dataset.iloc[0,column_no+1]
+    questions_responses=dataset.iloc[1:,column_no+1]
+    #print("Q{} Correct Answer={}".format(column_no+1,correct_answer))
+
+    response_count=correct_responses=questions_responses.value_counts()    
+    try:
+        reponse_count_correct=response_count[correct_answer]
+    except: 
+        reponse_count_correct=0 
+        print("No values")
+    
+   
+        
+    # =============================================================================
+    # Item difficulty P=N1/N
+    # N1=Correct Answers
+    # N=Number of reponses
+    # =============================================================================
+    question_eval="OK"
+    P=reponse_count_correct/num_responses
+    #print("Q{} No correct={} Total={} Difficulty={}".format(column_no+1,reponse_count_correct,num_responses,P))
+    if (P < difficult_threshold.get("min")):
+        #print("Question Too Hard")
+        question_eval="Too-Hard"
+    if (P >difficult_threshold.get("max")):
+        #print("Question Too Easy")
+        question_eval="Too-Easy"
+        
+    question_stats={"question":column_no+1,"correct":reponse_count_correct,"total":num_responses,"difficulty":P,"evaluation":question_eval}
+    question_statistics=question_statistics.append(question_stats,ignore_index=True)
+    print(question_stats)
+    
+
+    #print("[{}]".format(questions_responses))
 #data_group=dataset.groupby("Standard").count()
 #plt.bar(data_group.index,data_group['Apprentice ULN'])
 # data_group=data_EPA_bookings.groupby("Grading Received from IA").count()

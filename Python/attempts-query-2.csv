@@ -1,0 +1,2642 @@
+﻿id,questionid,questionusageid,name,questionsummary,rightanswer,responsesummary,timemodified,state,fraction,userid,username,"from unixtime(qa.timemodified)"
+2948,37,178,"1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Refer to the exhibit.In the exhibit, a correlogram is provided based ...","1.      Refer to the exhibit.
+In the exhibit, a correlogram is provided based on an autocorrelation analysis of a sample dataset
+[mc043-1.jpg]
+What can you conclude from only this exhibit?: There is no structure left to model in the data
+; Differencing is required before proceeding with any analysis; Lag 7 has a significant negative autocorrelation
+; There is significant autocorrelation through lag 3
+","There is significant autocorrelation through lag 3
+","There is significant autocorrelation through lag 3
+",1605615474,gradedright,1.0000000,4,owen@accelerate-people.co.uk,"2020-11-17 12:17:54"
+3399,416,211,Q01,"Two methods of customising the ribbon in the majority of Microsoft office products can be achieved by hovering over a ribbon icon and right clicking the mouse button, which of the following is a third option?
+: File/Info
+; File/Account
+; File
+; File/Options
+","File/Options
+","File/Info
+",1605775820,gradedwrong,0.0000000,4,owen@accelerate-people.co.uk,"2020-11-19 08:50:20"
+3400,417,211,Q02,"Which type of software application is best suited when using numbers and formulas?
+: Spreadsheets
+; Images
+; Documents
+; Slides
+","Spreadsheets
+","Images
+",1605775820,gradedwrong,0.0000000,4,owen@accelerate-people.co.uk,"2020-11-19 08:50:20"
+3401,418,211,Q03,"What type of software platform is routinely used to manage interaction with customers and suppliers?
+: Intranet
+; CTO
+; CRM
+; Internet
+","CRM
+","CRM
+",1605775820,gradedright,1.0000000,4,owen@accelerate-people.co.uk,"2020-11-19 08:50:20"
+3402,419,211,Q04,"Which of these platforms does not commonly feature a single sign-on function?
+: CRM
+; CMS
+; Internet
+; Intranet
+","Internet
+","Internet
+",1605775820,gradedright,1.0000000,4,owen@accelerate-people.co.uk,"2020-11-19 08:50:20"
+3403,420,211,Q05,"Agile methodology has 4 key value statements, complete the value statement, ""Individuals and interactions over""
+: Processes and positions
+; Processes and tools
+; Processes and teams
+; Teams and techniques
+","Processes and tools
+","Processes and teams
+",1605775820,gradedwrong,0.0000000,4,owen@accelerate-people.co.uk,"2020-11-19 08:50:20"
+3404,421,211,Q06,"Agile methodology has 4 key value statements, complete the value statement ""Working software over""?
+: Complicated rules
+; Comprehensive lists
+; Comprehensive documentation
+; Comprehensive spreadsheets
+","Comprehensive documentation
+","Comprehensive lists
+",1605775820,gradedwrong,0.0000000,4,owen@accelerate-people.co.uk,"2020-11-19 08:50:20"
+3405,422,211,Q07,"A person working in finance is most likely to depend on which digital technology to perform their role?
+: Instant messaging software
+; Time-off management software
+; Spreadsheet processing software
+; Presentation software
+","Spreadsheet processing software
+","Time-off management software
+",1605775820,gradedwrong,0.0000000,4,owen@accelerate-people.co.uk,"2020-11-19 08:50:20"
+3406,423,211,Q08,"A formal and detailed way to ensure that new employees are aware how to access and start using an organisation’s digital tools, could be?
+: FAQs
+; Webinars
+; Staff inductions
+; How to guides
+","FAQs
+","Webinars
+",1605775820,gradedwrong,0.0000000,4,owen@accelerate-people.co.uk,"2020-11-19 08:50:20"
+3407,416,212,Q01,"Two methods of customising the ribbon in the majority of Microsoft office products can be achieved by hovering over a ribbon icon and right clicking the mouse button, which of the following is a third option?
+: File/Info
+; File/Account
+; File
+; File/Options
+","File/Options
+","File/Account
+",1605775895,gradedwrong,0.0000000,4,owen@accelerate-people.co.uk,"2020-11-19 08:51:35"
+3408,417,212,Q02,"Which type of software application is best suited when using numbers and formulas?
+: Documents
+; Slides
+; Images
+; Spreadsheets
+","Spreadsheets
+","Spreadsheets
+",1605775895,gradedright,1.0000000,4,owen@accelerate-people.co.uk,"2020-11-19 08:51:35"
+3409,418,212,Q03,"What type of software platform is routinely used to manage interaction with customers and suppliers?
+: Internet
+; Intranet
+; CTO
+; CRM
+","CRM
+","CRM
+",1605775895,gradedright,1.0000000,4,owen@accelerate-people.co.uk,"2020-11-19 08:51:35"
+3410,419,212,Q04,"Which of these platforms does not commonly feature a single sign-on function?
+: Internet
+; CMS
+; Intranet
+; CRM
+","Internet
+","CRM
+",1605775895,gradedwrong,0.0000000,4,owen@accelerate-people.co.uk,"2020-11-19 08:51:35"
+3411,420,212,Q05,"Agile methodology has 4 key value statements, complete the value statement, ""Individuals and interactions over""
+: Teams and techniques
+; Processes and teams
+; Processes and positions
+; Processes and tools
+","Processes and tools
+","Processes and tools
+",1605775895,gradedright,1.0000000,4,owen@accelerate-people.co.uk,"2020-11-19 08:51:35"
+3412,421,212,Q06,"Agile methodology has 4 key value statements, complete the value statement ""Working software over""?
+: Comprehensive lists
+; Complicated rules
+; Comprehensive spreadsheets
+; Comprehensive documentation
+","Comprehensive documentation
+","Comprehensive documentation
+",1605775895,gradedright,1.0000000,4,owen@accelerate-people.co.uk,"2020-11-19 08:51:35"
+3413,422,212,Q07,"A person working in finance is most likely to depend on which digital technology to perform their role?
+: Spreadsheet processing software
+; Presentation software
+; Instant messaging software
+; Time-off management software
+","Spreadsheet processing software
+","Time-off management software
+",1605775895,gradedwrong,0.0000000,4,owen@accelerate-people.co.uk,"2020-11-19 08:51:35"
+3414,423,212,Q08,"A formal and detailed way to ensure that new employees are aware how to access and start using an organisation’s digital tools, could be?
+: Staff inductions
+; FAQs
+; How to guides
+; Webinars
+","FAQs
+","Webinars
+",1605775895,gradedwrong,0.0000000,4,owen@accelerate-people.co.uk,"2020-11-19 08:51:35"
+3415,424,213,Q01,"Which of the following is NOT a social media tool?
+: Facebook
+; Snapchat
+; GitHub
+; Twitter
+","GitHub
+","GitHub
+",1605775970,gradedright,1.0000000,4,owen@accelerate-people.co.uk,"2020-11-19 08:52:50"
+3416,425,213,Q02,"Which of the following is a feature of diagnosing digital problems?
+: Look at previous cases and history of faults.
+; Physical or virtual examination of the product
+; Testing functionality
+; All of the above
+","All of the above
+","Physical or virtual examination of the product
+",1605775970,gradedwrong,0.0000000,4,owen@accelerate-people.co.uk,"2020-11-19 08:52:50"
+3417,426,213,Q03,"Which of the following is GOOD password management?
+: Always use a simple password you can remember
+; Use one single strong password for all uses
+; Save your password to your PC so you do not lose it
+; Change your password regularly
+","Change your password regularly
+","Use one single strong password for all uses
+",1605775970,gradedwrong,0.0000000,4,owen@accelerate-people.co.uk,"2020-11-19 08:52:50"
+3418,427,213,Q04,"What does CMS stand for?
+: Content messaging system
+; Computer management system
+; Customer messaging system
+; Content management system
+","Content management system
+","Computer management system
+",1605775970,gradedwrong,0.0000000,4,owen@accelerate-people.co.uk,"2020-11-19 08:52:50"
+3419,428,213,Q05,"Which of the following Digital Channels are BEST used to communicate with different audiences?
+: Twitter
+; Presentation Software
+; Zero level channel
+; Email
+","Email
+","Presentation Software
+",1605775970,gradedwrong,0.0000000,4,owen@accelerate-people.co.uk,"2020-11-19 08:52:50"
+3420,429,213,Q06,"Which of the following would you use a CRM system for?
+: Recording Financial information
+; Recording Management information
+; Recording Customer Sales information
+; Recording HR information
+","Recording Customer Sales information
+","Recording Management information
+",1605775970,gradedwrong,0.0000000,4,owen@accelerate-people.co.uk,"2020-11-19 08:52:50"
+3421,430,213,Q07,"When supporting a customer which of the following is BEST practice?
+: Do not communicate with the customer throughout the task
+; Only communicate with the customer as you log outcomes
+; Maintain communication and inform the customer of the outcome once completed
+; Only inform the customer when the task is complete and log the completion
+","Maintain communication and inform the customer of the outcome once completed
+","Only communicate with the customer as you log outcomes
+",1605775970,gradedwrong,0.0000000,4,owen@accelerate-people.co.uk,"2020-11-19 08:52:50"
+3422,431,213,Q08,"Which of the following SHOULD form part of an organisations code of ethics?
+: By an organisation to respond to complaints
+; To guide an organisations recruitment strategy
+; To guide the organisation in its decisions, programs, and policies
+; For organisations to inform their strategic decisions
+","To guide the organisation in its decisions, programs, and policies
+","To guide the organisation in its decisions, programs, and policies
+",1605775970,gradedright,1.0000000,4,owen@accelerate-people.co.uk,"2020-11-19 08:52:50"
+3423,432,213,Q09,"When would you MOST likely escalate a problem?
+: When it is time to go home and the problem is not solved
+; After trying to resolve the problem and you have exhausted all possible solutions
+; When you cannot find the answer on the internet
+; When it is something you have never encountered before
+","After trying to resolve the problem and you have exhausted all possible solutions
+","When you cannot find the answer on the internet
+",1605775970,gradedwrong,0.0000000,4,owen@accelerate-people.co.uk,"2020-11-19 08:52:50"
+3424,433,213,Q10,"Which of the following methods is BEST suited to coach or support external users with a fault?
+: Create a simple user guide
+; Send them an email and try to explain what they need to do
+; Email their line manager to let them know they need training
+; Send them the technical / manufactures documents
+","Create a simple user guide
+","Email their line manager to let them know they need training
+",1605775970,gradedwrong,0.0000000,4,owen@accelerate-people.co.uk,"2020-11-19 08:52:50"
+3425,424,214,Q01,"Which of the following is NOT a social media tool?
+: Snapchat
+; GitHub
+; Facebook
+; Twitter
+","GitHub
+","Snapchat
+",1605777127,gradedwrong,0.0000000,4,owen@accelerate-people.co.uk,"2020-11-19 09:12:07"
+3426,425,214,Q02,"Which of the following is a feature of diagnosing digital problems?
+: Look at previous cases and history of faults.
+; Physical or virtual examination of the product
+; Testing functionality
+; All of the above
+","All of the above
+","Physical or virtual examination of the product
+",1605777127,gradedwrong,0.0000000,4,owen@accelerate-people.co.uk,"2020-11-19 09:12:07"
+3434,433,214,Q10,"Which of the following methods is BEST suited to coach or support external users with a fault?
+: Email their line manager to let them know they need training
+; Send them the technical / manufactures documents
+; Send them an email and try to explain what they need to do
+; Create a simple user guide
+","Create a simple user guide
+","Create a simple user guide
+",1605777127,gradedright,1.0000000,4,owen@accelerate-people.co.uk,"2020-11-19 09:12:07"
+3435,364,215,Q01,"Which of the following is NOT a video communication platform?
+: Email
+; Skype
+; Zoom
+; Microsoft Teams
+","Email
+","Email
+",1605795599,gradedright,1.0000000,9,owens,"2020-11-19 14:19:59"
+3436,365,215,Q02,"Which of the following is NOT classed as a peripheral hardware devise?
+: Printer
+; Server
+; Webcam
+; Keyboard
+","Server
+","Printer
+",1605795599,gradedwrong,0.0000000,9,owens,"2020-11-19 14:19:59"
+3450,379,215,Q16,"How can you BEST maintain current and future awareness of technologies?
+: Subscribe to professional memberships
+; Through continuous professional development
+; Through observation of colleagues
+; By having a large learning and development budget
+","Through continuous professional development
+","By having a large learning and development budget
+",1605795599,gradedwrong,0.0000000,9,owens,"2020-11-19 14:19:59"
+3451,416,216,Q01,"Two methods of customising the ribbon in the majority of Microsoft office products can be achieved by hovering over a ribbon icon and right clicking the mouse button, which of the following is a third option?
+: File/Account
+; File
+; File/Options
+; File/Info
+","File/Options
+","File/Account
+",1605795786,gradedwrong,0.0000000,8,andy-brown-test,"2020-11-19 14:23:06"
+3452,417,216,Q02,"Which type of software application is best suited when using numbers and formulas?
+: Images
+; Documents
+; Slides
+; Spreadsheets
+","Spreadsheets
+","Images
+",1605795786,gradedwrong,0.0000000,8,andy-brown-test,"2020-11-19 14:23:06"
+3458,423,216,Q08,"A formal and detailed way to ensure that new employees are aware how to access and start using an organisation’s digital tools, could be?
+: Staff inductions
+; Webinars
+; How to guides
+; FAQs
+","FAQs
+","FAQs
+",1605795786,gradedright,1.0000000,8,andy-brown-test,"2020-11-19 14:23:06"
+3459,424,217,Q01,"Which of the following is NOT a social media tool?
+: Snapchat
+; Twitter
+; GitHub
+; Facebook
+","GitHub
+","GitHub
+",1605796108,gradedright,1.0000000,9,owens,"2020-11-19 14:28:28"
+3460,425,217,Q02,"Which of the following is a feature of diagnosing digital problems?
+: Look at previous cases and history of faults.
+; Physical or virtual examination of the product
+; Testing functionality
+; All of the above
+","All of the above
+","All of the above
+",1605796108,gradedright,1.0000000,9,owens,"2020-11-19 14:28:28"
+3461,426,217,Q03,"Which of the following is GOOD password management?
+: Use one single strong password for all uses
+; Change your password regularly
+; Always use a simple password you can remember
+; Save your password to your PC so you do not lose it
+","Change your password regularly
+","Save your password to your PC so you do not lose it
+",1605796108,gradedwrong,0.0000000,9,owens,"2020-11-19 14:28:28"
+3462,427,217,Q04,"What does CMS stand for?
+: Content management system
+; Customer messaging system
+; Content messaging system
+; Computer management system
+","Content management system
+","Content messaging system
+",1605796108,gradedwrong,0.0000000,9,owens,"2020-11-19 14:28:28"
+3463,428,217,Q05,"Which of the following Digital Channels are BEST used to communicate with different audiences?
+: Email
+; Presentation Software
+; Zero level channel
+; Twitter
+","Email
+","Twitter
+",1605796108,gradedwrong,0.0000000,9,owens,"2020-11-19 14:28:28"
+3464,429,217,Q06,"Which of the following would you use a CRM system for?
+: Recording Financial information
+; Recording HR information
+; Recording Customer Sales information
+; Recording Management information
+","Recording Customer Sales information
+","Recording HR information
+",1605796108,gradedwrong,0.0000000,9,owens,"2020-11-19 14:28:28"
+3465,430,217,Q07,"When supporting a customer which of the following is BEST practice?
+: Only inform the customer when the task is complete and log the completion
+; Maintain communication and inform the customer of the outcome once completed
+; Only communicate with the customer as you log outcomes
+; Do not communicate with the customer throughout the task
+","Maintain communication and inform the customer of the outcome once completed
+","Maintain communication and inform the customer of the outcome once completed
+",1605796108,gradedright,1.0000000,9,owens,"2020-11-19 14:28:28"
+3466,431,217,Q08,"Which of the following SHOULD form part of an organisations code of ethics?
+: By an organisation to respond to complaints
+; To guide an organisations recruitment strategy
+; To guide the organisation in its decisions, programs, and policies
+; For organisations to inform their strategic decisions
+","To guide the organisation in its decisions, programs, and policies
+","To guide the organisation in its decisions, programs, and policies
+",1605796108,gradedright,1.0000000,9,owens,"2020-11-19 14:28:28"
+3467,432,217,Q09,"When would you MOST likely escalate a problem?
+: After trying to resolve the problem and you have exhausted all possible solutions
+; When you cannot find the answer on the internet
+; When it is time to go home and the problem is not solved
+; When it is something you have never encountered before
+","After trying to resolve the problem and you have exhausted all possible solutions
+","When it is something you have never encountered before
+",1605796108,gradedwrong,0.0000000,9,owens,"2020-11-19 14:28:28"
+3468,433,217,Q10,"Which of the following methods is BEST suited to coach or support external users with a fault?
+: Send them the technical / manufactures documents
+; Send them an email and try to explain what they need to do
+; Email their line manager to let them know they need training
+; Create a simple user guide
+","Create a simple user guide
+","Create a simple user guide
+",1605796108,gradedright,1.0000000,9,owens,"2020-11-19 14:28:28"
+3469,364,218,Q01,"Which of the following is NOT a video communication platform?
+: Email
+; Skype
+; Zoom
+; Microsoft Teams
+","Email
+","Email
+",1605798463,gradedright,1.0000000,9,owens,"2020-11-19 15:07:43"
+3470,365,218,Q02,"Which of the following is NOT classed as a peripheral hardware devise?
+: Printer
+; Server
+; Webcam
+; Keyboard
+","Server
+","Server
+",1605798463,gradedright,1.0000000,9,owens,"2020-11-19 15:07:43"
+3471,366,218,Q03,"Which of the following is primarily used for processing and presenting data?
+: Dropbox
+; SharePoint
+; Google Drive
+; PowerBI
+","PowerBI
+","PowerBI
+",1605798463,gradedright,1.0000000,9,owens,"2020-11-19 15:07:43"
+3472,367,218,Q04,"Which of the following is NOT an example of handling data securely?
+: Save data to an encrypted USB when travelling
+; Always save data to the company SharePoint
+; Send data via an email to an intended recipient
+; Always back data up to the server
+","Send data via an email to an intended recipient
+","Send data via an email to an intended recipient
+",1605798463,gradedright,1.0000000,9,owens,"2020-11-19 15:07:43"
+3473,368,218,Q05,"which of the following is NOT a data visualisation tool?
+: Tableau
+; Power BI
+; Excel
+; PDF
+","PDF
+","PDF
+",1605798463,gradedright,1.0000000,9,owens,"2020-11-19 15:07:43"
+3474,369,218,Q06,"Which policy or procedure would cover information security?
+: HR Policy
+; Finance Policy
+; Information Risk Management Policy
+; Safeguarding Policy
+","Information Risk Management Policy
+","Information Risk Management Policy
+",1605798463,gradedright,1.0000000,9,owens,"2020-11-19 15:07:43"
+3475,370,218,Q07,"Which of the following is a type of threat to an organisation?
+: A weak password
+; Not applying computer updates
+; New regulations
+; All of the above
+","All of the above
+","All of the above
+",1605798463,gradedright,1.0000000,9,owens,"2020-11-19 15:07:43"
+3476,371,218,Q08,"Which of the following would be the most likely reason to change your password?
+: You could not access your files
+; You have updated your software or applied updates
+; You have been on holiday and away from your PC for two weeks
+; You have had a virus on your PC
+","You have had a virus on your PC
+","You have had a virus on your PC
+",1605798463,gradedright,1.0000000,9,owens,"2020-11-19 15:07:43"
+3477,372,218,Q09,"Who should you inform if your encounter a data breach?
+: Information Commissioners Office
+; International Commissioners Office
+; Information Compliance Office
+; International Compliance Office
+","Information Commissioners Office
+","Information Commissioners Office
+",1605798463,gradedright,1.0000000,9,owens,"2020-11-19 15:07:43"
+3478,373,218,Q10,"How would you safeguard your organisations brand?
+: Follow the organisations policies
+; Only send email to existing customers
+; Remove the company logo when sending to unknown customers
+; Remove your email signature
+","Follow the organisations policies
+","Follow the organisations policies
+",1605798463,gradedright,1.0000000,9,owens,"2020-11-19 15:07:43"
+3479,374,218,Q11,"Which of the following are classed as Digital Communication Channels?
+: Blogging
+; Social Media
+; Email marketing
+; All of the above
+","All of the above
+","All of the above
+",1605798463,gradedright,1.0000000,9,owens,"2020-11-19 15:07:43"
+3480,375,218,Q12,"Which of the following is the least secure when accessing the internet?
+: log onto an open network in a local coffee shop
+; use your mobile phone from your home network
+; use your personal computer on the guest WiFi at work
+; log onto a secure train network with you phone whilst traveling
+","log onto an open network in a local coffee shop
+","log onto an open network in a local coffee shop
+",1605798463,gradedright,1.0000000,9,owens,"2020-11-19 15:07:43"
+3481,376,218,Q13,"Which of the following is the best method for planning your own learning activities?
+: Wait to see what opportunities become available that meet the gaps in your knowledge
+; Define a clear purpose and learning objectives aligned to your job role
+; Volunteer for every training opportunity that becomes available within the organisation
+; Select the same training that colleagues have applied to attend
+","Define a clear purpose and learning objectives aligned to your job role
+","Define a clear purpose and learning objectives aligned to your job role
+",1605798463,gradedright,1.0000000,9,owens,"2020-11-19 15:07:43"
+3482,377,218,Q14,"Which of the following combinations should be considered when planning effective time management?
+: Customer, costs, capacity
+; People, price, product
+; Tasks, time, team
+; information, intention, implementation
+","Tasks, time, team
+","Tasks, time, team
+",1605798463,gradedright,1.0000000,9,owens,"2020-11-19 15:07:43"
+3483,378,218,Q15,"How may your continuous improvement benefit the business?
+: Increase productivity
+; Informs the business strategy
+; informs the learning and development budget
+; Increases costs
+","Increase productivity
+","Increase productivity
+",1605798463,gradedright,1.0000000,9,owens,"2020-11-19 15:07:43"
+3484,379,218,Q16,"How can you BEST maintain current and future awareness of technologies?
+: Subscribe to professional memberships
+; Through continuous professional development
+; Through observation of colleagues
+; By having a large learning and development budget
+","Through continuous professional development
+","Through continuous professional development
+",1605798463,gradedright,1.0000000,9,owens,"2020-11-19 15:07:43"
+3485,416,219,Q01,"Two methods of customising the ribbon in the majority of Microsoft office products can be achieved by hovering over a ribbon icon and right clicking the mouse button, which of the following is a third option?
+: File/Info
+; File/Account
+; File
+; File/Options
+","File/Options
+","File/Options
+",1605798572,gradedright,1.0000000,9,owens,"2020-11-19 15:09:32"
+3486,417,219,Q02,"Which type of software application is best suited when using numbers and formulas?
+: Images
+; Documents
+; Slides
+; Spreadsheets
+","Spreadsheets
+","Spreadsheets
+",1605798572,gradedright,1.0000000,9,owens,"2020-11-19 15:09:32"
+3487,418,219,Q03,"What type of software platform is routinely used to manage interaction with customers and suppliers?
+: CRM
+; CTO
+; Intranet
+; Internet
+","CRM
+","CRM
+",1605798572,gradedright,1.0000000,9,owens,"2020-11-19 15:09:32"
+3488,419,219,Q04,"Which of these platforms does not commonly feature a single sign-on function?
+: CMS
+; Internet
+; Intranet
+; CRM
+","Internet
+","Internet
+",1605798572,gradedright,1.0000000,9,owens,"2020-11-19 15:09:32"
+3489,420,219,Q05,"Agile methodology has 4 key value statements, complete the value statement, ""Individuals and interactions over""
+: Teams and techniques
+; Processes and tools
+; Processes and teams
+; Processes and positions
+","Processes and tools
+","Processes and tools
+",1605798572,gradedright,1.0000000,9,owens,"2020-11-19 15:09:32"
+3490,421,219,Q06,"Agile methodology has 4 key value statements, complete the value statement ""Working software over""?
+: Comprehensive spreadsheets
+; Comprehensive lists
+; Comprehensive documentation
+; Complicated rules
+","Comprehensive documentation
+","Comprehensive documentation
+",1605798572,gradedright,1.0000000,9,owens,"2020-11-19 15:09:32"
+3491,422,219,Q07,"A person working in finance is most likely to depend on which digital technology to perform their role?
+: Presentation software
+; Instant messaging software
+; Spreadsheet processing software
+; Time-off management software
+","Spreadsheet processing software
+","Spreadsheet processing software
+",1605798572,gradedright,1.0000000,9,owens,"2020-11-19 15:09:32"
+3492,423,219,Q08,"A formal and detailed way to ensure that new employees are aware how to access and start using an organisation’s digital tools, could be?
+: FAQs
+; Webinars
+; How to guides
+; Staff inductions
+","FAQs
+","How to guides
+",1605798572,gradedwrong,0.0000000,9,owens,"2020-11-19 15:09:32"
+3493,424,220,Q01,"Which of the following is NOT a social media tool?
+: GitHub
+; Snapchat
+; Twitter
+; Facebook
+","GitHub
+","GitHub
+",1605798732,gradedright,1.0000000,9,owens,"2020-11-19 15:12:12"
+3494,425,220,Q02,"Which of the following is a feature of diagnosing digital problems?
+: Look at previous cases and history of faults.
+; Physical or virtual examination of the product
+; Testing functionality
+; All of the above
+","All of the above
+","All of the above
+",1605798732,gradedright,1.0000000,9,owens,"2020-11-19 15:12:12"
+3495,426,220,Q03,"Which of the following is GOOD password management?
+: Save your password to your PC so you do not lose it
+; Use one single strong password for all uses
+; Always use a simple password you can remember
+; Change your password regularly
+","Change your password regularly
+","Change your password regularly
+",1605798732,gradedright,1.0000000,9,owens,"2020-11-19 15:12:12"
+3496,427,220,Q04,"What does CMS stand for?
+: Content messaging system
+; Customer messaging system
+; Computer management system
+; Content management system
+","Content management system
+","Content management system
+",1605798732,gradedright,1.0000000,9,owens,"2020-11-19 15:12:12"
+3497,428,220,Q05,"Which of the following Digital Channels are BEST used to communicate with different audiences?
+: Zero level channel
+; Presentation Software
+; Email
+; Twitter
+","Email
+","Email
+",1605798732,gradedright,1.0000000,9,owens,"2020-11-19 15:12:12"
+3498,429,220,Q06,"Which of the following would you use a CRM system for?
+: Recording HR information
+; Recording Financial information
+; Recording Management information
+; Recording Customer Sales information
+","Recording Customer Sales information
+","Recording Customer Sales information
+",1605798732,gradedright,1.0000000,9,owens,"2020-11-19 15:12:12"
+3499,430,220,Q07,"When supporting a customer which of the following is BEST practice?
+: Maintain communication and inform the customer of the outcome once completed
+; Only communicate with the customer as you log outcomes
+; Do not communicate with the customer throughout the task
+; Only inform the customer when the task is complete and log the completion
+","Maintain communication and inform the customer of the outcome once completed
+","Maintain communication and inform the customer of the outcome once completed
+",1605798732,gradedright,1.0000000,9,owens,"2020-11-19 15:12:12"
+3500,431,220,Q08,"Which of the following SHOULD form part of an organisations code of ethics?
+: By an organisation to respond to complaints
+; To guide an organisations recruitment strategy
+; To guide the organisation in its decisions, programs, and policies
+; For organisations to inform their strategic decisions
+","To guide the organisation in its decisions, programs, and policies
+","To guide the organisation in its decisions, programs, and policies
+",1605798732,gradedright,1.0000000,9,owens,"2020-11-19 15:12:12"
+3501,432,220,Q09,"When would you MOST likely escalate a problem?
+: When it is something you have never encountered before
+; When it is time to go home and the problem is not solved
+; After trying to resolve the problem and you have exhausted all possible solutions
+; When you cannot find the answer on the internet
+","After trying to resolve the problem and you have exhausted all possible solutions
+","After trying to resolve the problem and you have exhausted all possible solutions
+",1605798732,gradedright,1.0000000,9,owens,"2020-11-19 15:12:12"
+3502,433,220,Q10,"Which of the following methods is BEST suited to coach or support external users with a fault?
+: Create a simple user guide
+; Email their line manager to let them know they need training
+; Send them the technical / manufactures documents
+; Send them an email and try to explain what they need to do
+","Create a simple user guide
+","Create a simple user guide
+",1605798732,gradedright,1.0000000,9,owens,"2020-11-19 15:12:12"
+3503,364,221,Q01,"Which of the following is NOT a video communication platform?
+: Email
+; Skype
+; Zoom
+; Microsoft Teams
+","Email
+","Email
+",1605812945,gradedright,1.0000000,8,andy-brown-test,"2020-11-19 19:09:05"
+3504,365,221,Q02,"Which of the following is NOT classed as a peripheral hardware devise?
+: Printer
+; Server
+; Webcam
+; Keyboard
+","Server
+","Server
+",1605812945,gradedright,1.0000000,8,andy-brown-test,"2020-11-19 19:09:05"
+3505,366,221,Q03,"Which of the following is primarily used for processing and presenting data?
+: Dropbox
+; SharePoint
+; Google Drive
+; PowerBI
+","PowerBI
+","Google Drive
+",1605812945,gradedwrong,0.0000000,8,andy-brown-test,"2020-11-19 19:09:05"
+3506,367,221,Q04,"Which of the following is NOT an example of handling data securely?
+: Save data to an encrypted USB when travelling
+; Always save data to the company SharePoint
+; Send data via an email to an intended recipient
+; Always back data up to the server
+","Send data via an email to an intended recipient
+","Send data via an email to an intended recipient
+",1605812945,gradedright,1.0000000,8,andy-brown-test,"2020-11-19 19:09:05"
+3507,368,221,Q05,"which of the following is NOT a data visualisation tool?
+: Tableau
+; Power BI
+; Excel
+; PDF
+","PDF
+","PDF
+",1605812945,gradedright,1.0000000,8,andy-brown-test,"2020-11-19 19:09:05"
+3508,369,221,Q06,"Which policy or procedure would cover information security?
+: HR Policy
+; Finance Policy
+; Information Risk Management Policy
+; Safeguarding Policy
+","Information Risk Management Policy
+","Information Risk Management Policy
+",1605812945,gradedright,1.0000000,8,andy-brown-test,"2020-11-19 19:09:05"
+3509,370,221,Q07,"Which of the following is a type of threat to an organisation?
+: A weak password
+; Not applying computer updates
+; New regulations
+; All of the above
+","All of the above
+","All of the above
+",1605812945,gradedright,1.0000000,8,andy-brown-test,"2020-11-19 19:09:05"
+3510,371,221,Q08,"Which of the following would be the most likely reason to change your password?
+: You could not access your files
+; You have updated your software or applied updates
+; You have been on holiday and away from your PC for two weeks
+; You have had a virus on your PC
+","You have had a virus on your PC
+","You have had a virus on your PC
+",1605812945,gradedright,1.0000000,8,andy-brown-test,"2020-11-19 19:09:05"
+3511,372,221,Q09,"Who should you inform if your encounter a data breach?
+: Information Commissioners Office
+; International Commissioners Office
+; Information Compliance Office
+; International Compliance Office
+","Information Commissioners Office
+","Information Commissioners Office
+",1605812945,gradedright,1.0000000,8,andy-brown-test,"2020-11-19 19:09:05"
+3512,373,221,Q10,"How would you safeguard your organisations brand?
+: Follow the organisations policies
+; Only send email to existing customers
+; Remove the company logo when sending to unknown customers
+; Remove your email signature
+","Follow the organisations policies
+","Follow the organisations policies
+",1605812945,gradedright,1.0000000,8,andy-brown-test,"2020-11-19 19:09:05"
+3513,374,221,Q11,"Which of the following are classed as Digital Communication Channels?
+: Blogging
+; Social Media
+; Email marketing
+; All of the above
+","All of the above
+","All of the above
+",1605812945,gradedright,1.0000000,8,andy-brown-test,"2020-11-19 19:09:05"
+3514,375,221,Q12,"Which of the following is the least secure when accessing the internet?
+: log onto an open network in a local coffee shop
+; use your mobile phone from your home network
+; use your personal computer on the guest WiFi at work
+; log onto a secure train network with you phone whilst traveling
+","log onto an open network in a local coffee shop
+","log onto an open network in a local coffee shop
+",1605812945,gradedright,1.0000000,8,andy-brown-test,"2020-11-19 19:09:05"
+3515,376,221,Q13,"Which of the following is the best method for planning your own learning activities?
+: Wait to see what opportunities become available that meet the gaps in your knowledge
+; Define a clear purpose and learning objectives aligned to your job role
+; Volunteer for every training opportunity that becomes available within the organisation
+; Select the same training that colleagues have applied to attend
+","Define a clear purpose and learning objectives aligned to your job role
+","Define a clear purpose and learning objectives aligned to your job role
+",1605812945,gradedright,1.0000000,8,andy-brown-test,"2020-11-19 19:09:05"
+3516,377,221,Q14,"Which of the following combinations should be considered when planning effective time management?
+: Customer, costs, capacity
+; People, price, product
+; Tasks, time, team
+; information, intention, implementation
+","Tasks, time, team
+","Customer, costs, capacity
+",1605812945,gradedwrong,0.0000000,8,andy-brown-test,"2020-11-19 19:09:05"
+3517,378,221,Q15,"How may your continuous improvement benefit the business?
+: Increase productivity
+; Informs the business strategy
+; informs the learning and development budget
+; Increases costs
+","Increase productivity
+","Informs the business strategy
+",1605812945,gradedwrong,0.0000000,8,andy-brown-test,"2020-11-19 19:09:05"
+3518,379,221,Q16,"How can you BEST maintain current and future awareness of technologies?
+: Subscribe to professional memberships
+; Through continuous professional development
+; Through observation of colleagues
+; By having a large learning and development budget
+","Through continuous professional development
+","Through observation of colleagues
+",1605812945,gradedwrong,0.0000000,8,andy-brown-test,"2020-11-19 19:09:05"
+3519,364,222,Q01,"Which of the following is NOT a video communication platform?
+: Email
+; Skype
+; Zoom
+; Microsoft Teams
+","Email
+","Email
+",1605812961,gradedright,1.0000000,8,andy-brown-test,"2020-11-19 19:09:21"
+3520,365,222,Q02,"Which of the following is NOT classed as a peripheral hardware devise?
+: Printer
+; Server
+; Webcam
+; Keyboard
+","Server
+","Server
+",1605812961,gradedright,1.0000000,8,andy-brown-test,"2020-11-19 19:09:21"
+3521,366,222,Q03,"Which of the following is primarily used for processing and presenting data?
+: Dropbox
+; SharePoint
+; Google Drive
+; PowerBI
+","PowerBI
+","PowerBI
+",1605812961,gradedright,1.0000000,8,andy-brown-test,"2020-11-19 19:09:21"
+3522,367,222,Q04,"Which of the following is NOT an example of handling data securely?
+: Save data to an encrypted USB when travelling
+; Always save data to the company SharePoint
+; Send data via an email to an intended recipient
+; Always back data up to the server
+","Send data via an email to an intended recipient
+","Send data via an email to an intended recipient
+",1605812961,gradedright,1.0000000,8,andy-brown-test,"2020-11-19 19:09:21"
+3523,368,222,Q05,"which of the following is NOT a data visualisation tool?
+: Tableau
+; Power BI
+; Excel
+; PDF
+","PDF
+","PDF
+",1605812961,gradedright,1.0000000,8,andy-brown-test,"2020-11-19 19:09:21"
+3524,369,222,Q06,"Which policy or procedure would cover information security?
+: HR Policy
+; Finance Policy
+; Information Risk Management Policy
+; Safeguarding Policy
+","Information Risk Management Policy
+","Information Risk Management Policy
+",1605812961,gradedright,1.0000000,8,andy-brown-test,"2020-11-19 19:09:21"
+3525,370,222,Q07,"Which of the following is a type of threat to an organisation?
+: A weak password
+; Not applying computer updates
+; New regulations
+; All of the above
+","All of the above
+","All of the above
+",1605812961,gradedright,1.0000000,8,andy-brown-test,"2020-11-19 19:09:21"
+3526,371,222,Q08,"Which of the following would be the most likely reason to change your password?
+: You could not access your files
+; You have updated your software or applied updates
+; You have been on holiday and away from your PC for two weeks
+; You have had a virus on your PC
+","You have had a virus on your PC
+","You have had a virus on your PC
+",1605812961,gradedright,1.0000000,8,andy-brown-test,"2020-11-19 19:09:21"
+3527,372,222,Q09,"Who should you inform if your encounter a data breach?
+: Information Commissioners Office
+; International Commissioners Office
+; Information Compliance Office
+; International Compliance Office
+","Information Commissioners Office
+","Information Commissioners Office
+",1605812961,gradedright,1.0000000,8,andy-brown-test,"2020-11-19 19:09:21"
+3528,373,222,Q10,"How would you safeguard your organisations brand?
+: Follow the organisations policies
+; Only send email to existing customers
+; Remove the company logo when sending to unknown customers
+; Remove your email signature
+","Follow the organisations policies
+","Follow the organisations policies
+",1605812961,gradedright,1.0000000,8,andy-brown-test,"2020-11-19 19:09:21"
+3529,374,222,Q11,"Which of the following are classed as Digital Communication Channels?
+: Blogging
+; Social Media
+; Email marketing
+; All of the above
+","All of the above
+","Email marketing
+",1605812961,gradedwrong,0.0000000,8,andy-brown-test,"2020-11-19 19:09:21"
+3530,375,222,Q12,"Which of the following is the least secure when accessing the internet?
+: log onto an open network in a local coffee shop
+; use your mobile phone from your home network
+; use your personal computer on the guest WiFi at work
+; log onto a secure train network with you phone whilst traveling
+","log onto an open network in a local coffee shop
+","log onto an open network in a local coffee shop
+",1605812961,gradedright,1.0000000,8,andy-brown-test,"2020-11-19 19:09:21"
+3531,376,222,Q13,"Which of the following is the best method for planning your own learning activities?
+: Wait to see what opportunities become available that meet the gaps in your knowledge
+; Define a clear purpose and learning objectives aligned to your job role
+; Volunteer for every training opportunity that becomes available within the organisation
+; Select the same training that colleagues have applied to attend
+","Define a clear purpose and learning objectives aligned to your job role
+","Define a clear purpose and learning objectives aligned to your job role
+",1605812961,gradedright,1.0000000,8,andy-brown-test,"2020-11-19 19:09:21"
+3532,377,222,Q14,"Which of the following combinations should be considered when planning effective time management?
+: Customer, costs, capacity
+; People, price, product
+; Tasks, time, team
+; information, intention, implementation
+","Tasks, time, team
+","Tasks, time, team
+",1605812961,gradedright,1.0000000,8,andy-brown-test,"2020-11-19 19:09:21"
+3533,378,222,Q15,"How may your continuous improvement benefit the business?
+: Increase productivity
+; Informs the business strategy
+; informs the learning and development budget
+; Increases costs
+","Increase productivity
+","Increase productivity
+",1605812961,gradedright,1.0000000,8,andy-brown-test,"2020-11-19 19:09:21"
+3534,379,222,Q16,"How can you BEST maintain current and future awareness of technologies?
+: Subscribe to professional memberships
+; Through continuous professional development
+; Through observation of colleagues
+; By having a large learning and development budget
+","Through continuous professional development
+","Through observation of colleagues
+",1605812961,gradedwrong,0.0000000,8,andy-brown-test,"2020-11-19 19:09:21"
+3535,364,223,Q01,"Which of the following is NOT a video communication platform?
+: Email
+; Skype
+; Zoom
+; Microsoft Teams
+","Email
+","Email
+",1605812978,gradedright,1.0000000,8,andy-brown-test,"2020-11-19 19:09:38"
+3536,365,223,Q02,"Which of the following is NOT classed as a peripheral hardware devise?
+: Printer
+; Server
+; Webcam
+; Keyboard
+","Server
+","Server
+",1605812978,gradedright,1.0000000,8,andy-brown-test,"2020-11-19 19:09:38"
+3537,366,223,Q03,"Which of the following is primarily used for processing and presenting data?
+: Dropbox
+; SharePoint
+; Google Drive
+; PowerBI
+","PowerBI
+","SharePoint
+",1605812978,gradedwrong,0.0000000,8,andy-brown-test,"2020-11-19 19:09:38"
+3538,367,223,Q04,"Which of the following is NOT an example of handling data securely?
+: Save data to an encrypted USB when travelling
+; Always save data to the company SharePoint
+; Send data via an email to an intended recipient
+; Always back data up to the server
+","Send data via an email to an intended recipient
+","Send data via an email to an intended recipient
+",1605812978,gradedright,1.0000000,8,andy-brown-test,"2020-11-19 19:09:38"
+3539,368,223,Q05,"which of the following is NOT a data visualisation tool?
+: Tableau
+; Power BI
+; Excel
+; PDF
+","PDF
+","PDF
+",1605812978,gradedright,1.0000000,8,andy-brown-test,"2020-11-19 19:09:38"
+3540,369,223,Q06,"Which policy or procedure would cover information security?
+: HR Policy
+; Finance Policy
+; Information Risk Management Policy
+; Safeguarding Policy
+","Information Risk Management Policy
+","Safeguarding Policy
+",1605812978,gradedwrong,0.0000000,8,andy-brown-test,"2020-11-19 19:09:38"
+3541,370,223,Q07,"Which of the following is a type of threat to an organisation?
+: A weak password
+; Not applying computer updates
+; New regulations
+; All of the above
+","All of the above
+","New regulations
+",1605812978,gradedwrong,0.0000000,8,andy-brown-test,"2020-11-19 19:09:38"
+3542,371,223,Q08,"Which of the following would be the most likely reason to change your password?
+: You could not access your files
+; You have updated your software or applied updates
+; You have been on holiday and away from your PC for two weeks
+; You have had a virus on your PC
+","You have had a virus on your PC
+","You could not access your files
+",1605812978,gradedwrong,0.0000000,8,andy-brown-test,"2020-11-19 19:09:38"
+3543,372,223,Q09,"Who should you inform if your encounter a data breach?
+: Information Commissioners Office
+; International Commissioners Office
+; Information Compliance Office
+; International Compliance Office
+","Information Commissioners Office
+","International Commissioners Office
+",1605812978,gradedwrong,0.0000000,8,andy-brown-test,"2020-11-19 19:09:38"
+3544,373,223,Q10,"How would you safeguard your organisations brand?
+: Follow the organisations policies
+; Only send email to existing customers
+; Remove the company logo when sending to unknown customers
+; Remove your email signature
+","Follow the organisations policies
+","Only send email to existing customers
+",1605812978,gradedwrong,0.0000000,8,andy-brown-test,"2020-11-19 19:09:38"
+3545,374,223,Q11,"Which of the following are classed as Digital Communication Channels?
+: Blogging
+; Social Media
+; Email marketing
+; All of the above
+","All of the above
+","Email marketing
+",1605812978,gradedwrong,0.0000000,8,andy-brown-test,"2020-11-19 19:09:38"
+3546,375,223,Q12,"Which of the following is the least secure when accessing the internet?
+: log onto an open network in a local coffee shop
+; use your mobile phone from your home network
+; use your personal computer on the guest WiFi at work
+; log onto a secure train network with you phone whilst traveling
+","log onto an open network in a local coffee shop
+","use your mobile phone from your home network
+",1605812978,gradedwrong,0.0000000,8,andy-brown-test,"2020-11-19 19:09:38"
+3547,376,223,Q13,"Which of the following is the best method for planning your own learning activities?
+: Wait to see what opportunities become available that meet the gaps in your knowledge
+; Define a clear purpose and learning objectives aligned to your job role
+; Volunteer for every training opportunity that becomes available within the organisation
+; Select the same training that colleagues have applied to attend
+","Define a clear purpose and learning objectives aligned to your job role
+","Wait to see what opportunities become available that meet the gaps in your knowledge
+",1605812978,gradedwrong,0.0000000,8,andy-brown-test,"2020-11-19 19:09:38"
+3548,377,223,Q14,"Which of the following combinations should be considered when planning effective time management?
+: Customer, costs, capacity
+; People, price, product
+; Tasks, time, team
+; information, intention, implementation
+","Tasks, time, team
+","People, price, product
+",1605812978,gradedwrong,0.0000000,8,andy-brown-test,"2020-11-19 19:09:38"
+3549,378,223,Q15,"How may your continuous improvement benefit the business?
+: Increase productivity
+; Informs the business strategy
+; informs the learning and development budget
+; Increases costs
+","Increase productivity
+","Informs the business strategy
+",1605812978,gradedwrong,0.0000000,8,andy-brown-test,"2020-11-19 19:09:38"
+3550,379,223,Q16,"How can you BEST maintain current and future awareness of technologies?
+: Subscribe to professional memberships
+; Through continuous professional development
+; Through observation of colleagues
+; By having a large learning and development budget
+","Through continuous professional development
+","By having a large learning and development budget
+",1605812978,gradedwrong,0.0000000,8,andy-brown-test,"2020-11-19 19:09:38"
+3551,364,224,Q01,"Which of the following is NOT a video communication platform?
+: Email
+; Skype
+; Zoom
+; Microsoft Teams
+","Email
+","Skype
+",1605815382,gradedwrong,0.0000000,8,andy-brown-test,"2020-11-19 19:49:42"
+3552,365,224,Q02,"Which of the following is NOT classed as a peripheral hardware devise?
+: Printer
+; Server
+; Webcam
+; Keyboard
+","Server
+","Server
+",1605815382,gradedright,1.0000000,8,andy-brown-test,"2020-11-19 19:49:42"
+3553,366,224,Q03,"Which of the following is primarily used for processing and presenting data?
+: Dropbox
+; SharePoint
+; Google Drive
+; PowerBI
+","PowerBI
+","Google Drive
+",1605815382,gradedwrong,0.0000000,8,andy-brown-test,"2020-11-19 19:49:42"
+3554,367,224,Q04,"Which of the following is NOT an example of handling data securely?
+: Save data to an encrypted USB when travelling
+; Always save data to the company SharePoint
+; Send data via an email to an intended recipient
+; Always back data up to the server
+","Send data via an email to an intended recipient
+","Send data via an email to an intended recipient
+",1605815382,gradedright,1.0000000,8,andy-brown-test,"2020-11-19 19:49:42"
+3555,368,224,Q05,"which of the following is NOT a data visualisation tool?
+: Tableau
+; Power BI
+; Excel
+; PDF
+","PDF
+","Excel
+",1605815382,gradedwrong,0.0000000,8,andy-brown-test,"2020-11-19 19:49:42"
+3556,369,224,Q06,"Which policy or procedure would cover information security?
+: HR Policy
+; Finance Policy
+; Information Risk Management Policy
+; Safeguarding Policy
+","Information Risk Management Policy
+","HR Policy
+",1605815382,gradedwrong,0.0000000,8,andy-brown-test,"2020-11-19 19:49:42"
+3557,370,224,Q07,"Which of the following is a type of threat to an organisation?
+: A weak password
+; Not applying computer updates
+; New regulations
+; All of the above
+","All of the above
+","New regulations
+",1605815382,gradedwrong,0.0000000,8,andy-brown-test,"2020-11-19 19:49:42"
+3558,371,224,Q08,"Which of the following would be the most likely reason to change your password?
+: You could not access your files
+; You have updated your software or applied updates
+; You have been on holiday and away from your PC for two weeks
+; You have had a virus on your PC
+","You have had a virus on your PC
+","You could not access your files
+",1605815382,gradedwrong,0.0000000,8,andy-brown-test,"2020-11-19 19:49:42"
+3559,372,224,Q09,"Who should you inform if your encounter a data breach?
+: Information Commissioners Office
+; International Commissioners Office
+; Information Compliance Office
+; International Compliance Office
+","Information Commissioners Office
+","International Commissioners Office
+",1605815382,gradedwrong,0.0000000,8,andy-brown-test,"2020-11-19 19:49:42"
+3567,364,225,Q01,"Which of the following is NOT a video communication platform?
+: Email
+; Skype
+; Zoom
+; Microsoft Teams
+","Email
+","Email
+",1605865756,gradedright,1.0000000,8,andy-brown-test,"2020-11-20 09:49:16"
+3568,365,225,Q02,"Which of the following is NOT classed as a peripheral hardware devise?
+: Printer
+; Server
+; Webcam
+; Keyboard
+","Server
+","Server
+",1605865756,gradedright,1.0000000,8,andy-brown-test,"2020-11-20 09:49:16"
+3569,366,225,Q03,"Which of the following is primarily used for processing and presenting data?
+: Dropbox
+; SharePoint
+; Google Drive
+; PowerBI
+","PowerBI
+","PowerBI
+",1605865756,gradedright,1.0000000,8,andy-brown-test,"2020-11-20 09:49:16"
+3570,367,225,Q04,"Which of the following is NOT an example of handling data securely?
+: Save data to an encrypted USB when travelling
+; Always save data to the company SharePoint
+; Send data via an email to an intended recipient
+; Always back data up to the server
+","Send data via an email to an intended recipient
+","Send data via an email to an intended recipient
+",1605865756,gradedright,1.0000000,8,andy-brown-test,"2020-11-20 09:49:16"
+3571,368,225,Q05,"which of the following is NOT a data visualisation tool?
+: Tableau
+; Power BI
+; Excel
+; PDF
+","PDF
+","PDF
+",1605865756,gradedright,1.0000000,8,andy-brown-test,"2020-11-20 09:49:16"
+3572,369,225,Q06,"Which policy or procedure would cover information security?
+: HR Policy
+; Finance Policy
+; Information Risk Management Policy
+; Safeguarding Policy
+","Information Risk Management Policy
+","Information Risk Management Policy
+",1605865756,gradedright,1.0000000,8,andy-brown-test,"2020-11-20 09:49:16"
+3573,370,225,Q07,"Which of the following is a type of threat to an organisation?
+: A weak password
+; Not applying computer updates
+; New regulations
+; All of the above
+","All of the above
+","All of the above
+",1605865756,gradedright,1.0000000,8,andy-brown-test,"2020-11-20 09:49:16"
+3574,371,225,Q08,"Which of the following would be the most likely reason to change your password?
+: You could not access your files
+; You have updated your software or applied updates
+; You have been on holiday and away from your PC for two weeks
+; You have had a virus on your PC
+","You have had a virus on your PC
+","You have had a virus on your PC
+",1605865756,gradedright,1.0000000,8,andy-brown-test,"2020-11-20 09:49:16"
+3575,372,225,Q09,"Who should you inform if your encounter a data breach?
+: Information Commissioners Office
+; International Commissioners Office
+; Information Compliance Office
+; International Compliance Office
+","Information Commissioners Office
+","Information Commissioners Office
+",1605865756,gradedright,1.0000000,8,andy-brown-test,"2020-11-20 09:49:16"
+3576,373,225,Q10,"How would you safeguard your organisations brand?
+: Follow the organisations policies
+; Only send email to existing customers
+; Remove the company logo when sending to unknown customers
+; Remove your email signature
+","Follow the organisations policies
+","Follow the organisations policies
+",1605865756,gradedright,1.0000000,8,andy-brown-test,"2020-11-20 09:49:16"
+3577,374,225,Q11,"Which of the following are classed as Digital Communication Channels?
+: Blogging
+; Social Media
+; Email marketing
+; All of the above
+","All of the above
+","All of the above
+",1605865756,gradedright,1.0000000,8,andy-brown-test,"2020-11-20 09:49:16"
+3578,375,225,Q12,"Which of the following is the least secure when accessing the internet?
+: log onto an open network in a local coffee shop
+; use your mobile phone from your home network
+; use your personal computer on the guest WiFi at work
+; log onto a secure train network with you phone whilst traveling
+","log onto an open network in a local coffee shop
+","log onto an open network in a local coffee shop
+",1605865756,gradedright,1.0000000,8,andy-brown-test,"2020-11-20 09:49:16"
+3579,376,225,Q13,"Which of the following is the best method for planning your own learning activities?
+: Wait to see what opportunities become available that meet the gaps in your knowledge
+; Define a clear purpose and learning objectives aligned to your job role
+; Volunteer for every training opportunity that becomes available within the organisation
+; Select the same training that colleagues have applied to attend
+","Define a clear purpose and learning objectives aligned to your job role
+","Define a clear purpose and learning objectives aligned to your job role
+",1605865756,gradedright,1.0000000,8,andy-brown-test,"2020-11-20 09:49:16"
+3580,377,225,Q14,"Which of the following combinations should be considered when planning effective time management?
+: Customer, costs, capacity
+; People, price, product
+; Tasks, time, team
+; information, intention, implementation
+","Tasks, time, team
+","Customer, costs, capacity
+",1605865756,gradedwrong,0.0000000,8,andy-brown-test,"2020-11-20 09:49:16"
+3581,378,225,Q15,"How may your continuous improvement benefit the business?
+: Increase productivity
+; Informs the business strategy
+; informs the learning and development budget
+; Increases costs
+","Increase productivity
+","Increase productivity
+",1605865756,gradedright,1.0000000,8,andy-brown-test,"2020-11-20 09:49:16"
+3582,379,225,Q16,"How can you BEST maintain current and future awareness of technologies?
+: Subscribe to professional memberships
+; Through continuous professional development
+; Through observation of colleagues
+; By having a large learning and development budget
+","Through continuous professional development
+","Through continuous professional development
+",1605865756,gradedright,1.0000000,8,andy-brown-test,"2020-11-20 09:49:16"
+3599,364,227,Q01,"Which of the following is NOT a video communication platform?
+: Email
+; Skype
+; Zoom
+; Microsoft Teams
+","Email
+","Email
+",1605889538,gradedright,1.0000000,8,andy-brown-test,"2020-11-20 16:25:38"
+3600,365,227,Q02,"Which of the following is NOT classed as a peripheral hardware devise?
+: Printer
+; Server
+; Webcam
+; Keyboard
+","Server
+","Server
+",1605889538,gradedright,1.0000000,8,andy-brown-test,"2020-11-20 16:25:38"
+3601,366,227,Q03,"Which of the following is primarily used for processing and presenting data?
+: Dropbox
+; SharePoint
+; Google Drive
+; PowerBI
+","PowerBI
+","Google Drive
+",1605889538,gradedwrong,0.0000000,8,andy-brown-test,"2020-11-20 16:25:38"
+3602,367,227,Q04,"Which of the following is NOT an example of handling data securely?
+: Save data to an encrypted USB when travelling
+; Always save data to the company SharePoint
+; Send data via an email to an intended recipient
+; Always back data up to the server
+","Send data via an email to an intended recipient
+","Send data via an email to an intended recipient
+",1605889538,gradedright,1.0000000,8,andy-brown-test,"2020-11-20 16:25:38"
+3603,368,227,Q05,"which of the following is NOT a data visualisation tool?
+: Tableau
+; Power BI
+; Excel
+; PDF
+","PDF
+","PDF
+",1605889538,gradedright,1.0000000,8,andy-brown-test,"2020-11-20 16:25:38"
+3604,369,227,Q06,"Which policy or procedure would cover information security?
+: HR Policy
+; Finance Policy
+; Information Risk Management Policy
+; Safeguarding Policy
+","Information Risk Management Policy
+","Information Risk Management Policy
+",1605889538,gradedright,1.0000000,8,andy-brown-test,"2020-11-20 16:25:38"
+3605,370,227,Q07,"Which of the following is a type of threat to an organisation?
+: A weak password
+; Not applying computer updates
+; New regulations
+; All of the above
+","All of the above
+","All of the above
+",1605889538,gradedright,1.0000000,8,andy-brown-test,"2020-11-20 16:25:38"
+3606,371,227,Q08,"Which of the following would be the most likely reason to change your password?
+: You could not access your files
+; You have updated your software or applied updates
+; You have been on holiday and away from your PC for two weeks
+; You have had a virus on your PC
+","You have had a virus on your PC
+","You have had a virus on your PC
+",1605889538,gradedright,1.0000000,8,andy-brown-test,"2020-11-20 16:25:38"
+3607,372,227,Q09,"Who should you inform if your encounter a data breach?
+: Information Commissioners Office
+; International Commissioners Office
+; Information Compliance Office
+; International Compliance Office
+","Information Commissioners Office
+","Information Commissioners Office
+",1605889538,gradedright,1.0000000,8,andy-brown-test,"2020-11-20 16:25:38"
+3608,373,227,Q10,"How would you safeguard your organisations brand?
+: Follow the organisations policies
+; Only send email to existing customers
+; Remove the company logo when sending to unknown customers
+; Remove your email signature
+","Follow the organisations policies
+","Follow the organisations policies
+",1605889538,gradedright,1.0000000,8,andy-brown-test,"2020-11-20 16:25:38"
+3609,374,227,Q11,"Which of the following are classed as Digital Communication Channels?
+: Blogging
+; Social Media
+; Email marketing
+; All of the above
+","All of the above
+","All of the above
+",1605889538,gradedright,1.0000000,8,andy-brown-test,"2020-11-20 16:25:38"
+3610,375,227,Q12,"Which of the following is the least secure when accessing the internet?
+: log onto an open network in a local coffee shop
+; use your mobile phone from your home network
+; use your personal computer on the guest WiFi at work
+; log onto a secure train network with you phone whilst traveling
+","log onto an open network in a local coffee shop
+","log onto an open network in a local coffee shop
+",1605889538,gradedright,1.0000000,8,andy-brown-test,"2020-11-20 16:25:38"
+3611,376,227,Q13,"Which of the following is the best method for planning your own learning activities?
+: Wait to see what opportunities become available that meet the gaps in your knowledge
+; Define a clear purpose and learning objectives aligned to your job role
+; Volunteer for every training opportunity that becomes available within the organisation
+; Select the same training that colleagues have applied to attend
+","Define a clear purpose and learning objectives aligned to your job role
+","Define a clear purpose and learning objectives aligned to your job role
+",1605889538,gradedright,1.0000000,8,andy-brown-test,"2020-11-20 16:25:38"
+3612,377,227,Q14,"Which of the following combinations should be considered when planning effective time management?
+: Customer, costs, capacity
+; People, price, product
+; Tasks, time, team
+; information, intention, implementation
+","Tasks, time, team
+","Customer, costs, capacity
+",1605889538,gradedwrong,0.0000000,8,andy-brown-test,"2020-11-20 16:25:38"
+3613,378,227,Q15,"How may your continuous improvement benefit the business?
+: Increase productivity
+; Informs the business strategy
+; informs the learning and development budget
+; Increases costs
+","Increase productivity
+","Informs the business strategy
+",1605889538,gradedwrong,0.0000000,8,andy-brown-test,"2020-11-20 16:25:38"
+3614,379,227,Q16,"How can you BEST maintain current and future awareness of technologies?
+: Subscribe to professional memberships
+; Through continuous professional development
+; Through observation of colleagues
+; By having a large learning and development budget
+","Through continuous professional development
+","Through observation of colleagues
+",1605889538,gradedwrong,0.0000000,8,andy-brown-test,"2020-11-20 16:25:38"
+3615,364,228,Q01,"Which of the following is NOT a video communication platform?
+: Email
+; Skype
+; Zoom
+; Microsoft Teams
+","Email
+","Email
+",1605889558,gradedright,1.0000000,8,andy-brown-test,"2020-11-20 16:25:58"
+3616,365,228,Q02,"Which of the following is NOT classed as a peripheral hardware devise?
+: Printer
+; Server
+; Webcam
+; Keyboard
+","Server
+","Server
+",1605889558,gradedright,1.0000000,8,andy-brown-test,"2020-11-20 16:25:58"
+3617,366,228,Q03,"Which of the following is primarily used for processing and presenting data?
+: Dropbox
+; SharePoint
+; Google Drive
+; PowerBI
+","PowerBI
+","PowerBI
+",1605889558,gradedright,1.0000000,8,andy-brown-test,"2020-11-20 16:25:58"
+3618,367,228,Q04,"Which of the following is NOT an example of handling data securely?
+: Save data to an encrypted USB when travelling
+; Always save data to the company SharePoint
+; Send data via an email to an intended recipient
+; Always back data up to the server
+","Send data via an email to an intended recipient
+","Send data via an email to an intended recipient
+",1605889558,gradedright,1.0000000,8,andy-brown-test,"2020-11-20 16:25:58"
+3619,368,228,Q05,"which of the following is NOT a data visualisation tool?
+: Tableau
+; Power BI
+; Excel
+; PDF
+","PDF
+","PDF
+",1605889558,gradedright,1.0000000,8,andy-brown-test,"2020-11-20 16:25:58"
+3620,369,228,Q06,"Which policy or procedure would cover information security?
+: HR Policy
+; Finance Policy
+; Information Risk Management Policy
+; Safeguarding Policy
+","Information Risk Management Policy
+","Information Risk Management Policy
+",1605889558,gradedright,1.0000000,8,andy-brown-test,"2020-11-20 16:25:58"
+3622,371,228,Q08,"Which of the following would be the most likely reason to change your password?
+: You could not access your files
+; You have updated your software or applied updates
+; You have been on holiday and away from your PC for two weeks
+; You have had a virus on your PC
+","You have had a virus on your PC
+","You have had a virus on your PC
+",1605889558,gradedright,1.0000000,8,andy-brown-test,"2020-11-20 16:25:58"
+3623,372,228,Q09,"Who should you inform if your encounter a data breach?
+: Information Commissioners Office
+; International Commissioners Office
+; Information Compliance Office
+; International Compliance Office
+","Information Commissioners Office
+","Information Commissioners Office
+",1605889558,gradedright,1.0000000,8,andy-brown-test,"2020-11-20 16:25:58"
+3624,373,228,Q10,"How would you safeguard your organisations brand?
+: Follow the organisations policies
+; Only send email to existing customers
+; Remove the company logo when sending to unknown customers
+; Remove your email signature
+","Follow the organisations policies
+","Follow the organisations policies
+",1605889558,gradedright,1.0000000,8,andy-brown-test,"2020-11-20 16:25:58"
+3625,374,228,Q11,"Which of the following are classed as Digital Communication Channels?
+: Blogging
+; Social Media
+; Email marketing
+; All of the above
+","All of the above
+","Email marketing
+",1605889558,gradedwrong,0.0000000,8,andy-brown-test,"2020-11-20 16:25:58"
+3626,375,228,Q12,"Which of the following is the least secure when accessing the internet?
+: log onto an open network in a local coffee shop
+; use your mobile phone from your home network
+; use your personal computer on the guest WiFi at work
+; log onto a secure train network with you phone whilst traveling
+","log onto an open network in a local coffee shop
+","log onto an open network in a local coffee shop
+",1605889558,gradedright,1.0000000,8,andy-brown-test,"2020-11-20 16:25:58"
+3627,376,228,Q13,"Which of the following is the best method for planning your own learning activities?
+: Wait to see what opportunities become available that meet the gaps in your knowledge
+; Define a clear purpose and learning objectives aligned to your job role
+; Volunteer for every training opportunity that becomes available within the organisation
+; Select the same training that colleagues have applied to attend
+","Define a clear purpose and learning objectives aligned to your job role
+","Define a clear purpose and learning objectives aligned to your job role
+",1605889558,gradedright,1.0000000,8,andy-brown-test,"2020-11-20 16:25:58"
+3628,377,228,Q14,"Which of the following combinations should be considered when planning effective time management?
+: Customer, costs, capacity
+; People, price, product
+; Tasks, time, team
+; information, intention, implementation
+","Tasks, time, team
+","Tasks, time, team
+",1605889558,gradedright,1.0000000,8,andy-brown-test,"2020-11-20 16:25:58"
+3629,378,228,Q15,"How may your continuous improvement benefit the business?
+: Increase productivity
+; Informs the business strategy
+; informs the learning and development budget
+; Increases costs
+","Increase productivity
+","Increase productivity
+",1605889558,gradedright,1.0000000,8,andy-brown-test,"2020-11-20 16:25:58"
+3630,379,228,Q16,"How can you BEST maintain current and future awareness of technologies?
+: Subscribe to professional memberships
+; Through continuous professional development
+; Through observation of colleagues
+; By having a large learning and development budget
+","Through continuous professional development
+","Through observation of colleagues
+",1605889558,gradedwrong,0.0000000,8,andy-brown-test,"2020-11-20 16:25:58"
+3631,364,229,Q01,"Which of the following is NOT a video communication platform?
+: Email
+; Skype
+; Zoom
+; Microsoft Teams
+","Email
+","Email
+",1605889579,gradedright,1.0000000,8,andy-brown-test,"2020-11-20 16:26:19"
+3632,365,229,Q02,"Which of the following is NOT classed as a peripheral hardware devise?
+: Printer
+; Server
+; Webcam
+; Keyboard
+","Server
+","Server
+",1605889579,gradedright,1.0000000,8,andy-brown-test,"2020-11-20 16:26:19"
+3633,366,229,Q03,"Which of the following is primarily used for processing and presenting data?
+: Dropbox
+; SharePoint
+; Google Drive
+; PowerBI
+","PowerBI
+","SharePoint
+",1605889579,gradedwrong,0.0000000,8,andy-brown-test,"2020-11-20 16:26:19"
+3634,367,229,Q04,"Which of the following is NOT an example of handling data securely?
+: Save data to an encrypted USB when travelling
+; Always save data to the company SharePoint
+; Send data via an email to an intended recipient
+; Always back data up to the server
+","Send data via an email to an intended recipient
+","Send data via an email to an intended recipient
+",1605889579,gradedright,1.0000000,8,andy-brown-test,"2020-11-20 16:26:19"
+3635,368,229,Q05,"which of the following is NOT a data visualisation tool?
+: Tableau
+; Power BI
+; Excel
+; PDF
+","PDF
+","PDF
+",1605889579,gradedright,1.0000000,8,andy-brown-test,"2020-11-20 16:26:19"
+3636,369,229,Q06,"Which policy or procedure would cover information security?
+: HR Policy
+; Finance Policy
+; Information Risk Management Policy
+; Safeguarding Policy
+","Information Risk Management Policy
+","Safeguarding Policy
+",1605889579,gradedwrong,0.0000000,8,andy-brown-test,"2020-11-20 16:26:19"
+3637,370,229,Q07,"Which of the following is a type of threat to an organisation?
+: A weak password
+; Not applying computer updates
+; New regulations
+; All of the above
+","All of the above
+","New regulations
+",1605889579,gradedwrong,0.0000000,8,andy-brown-test,"2020-11-20 16:26:19"
+3638,371,229,Q08,"Which of the following would be the most likely reason to change your password?
+: You could not access your files
+; You have updated your software or applied updates
+; You have been on holiday and away from your PC for two weeks
+; You have had a virus on your PC
+","You have had a virus on your PC
+","You could not access your files
+",1605889579,gradedwrong,0.0000000,8,andy-brown-test,"2020-11-20 16:26:19"
+3639,372,229,Q09,"Who should you inform if your encounter a data breach?
+: Information Commissioners Office
+; International Commissioners Office
+; Information Compliance Office
+; International Compliance Office
+","Information Commissioners Office
+","International Commissioners Office
+",1605889579,gradedwrong,0.0000000,8,andy-brown-test,"2020-11-20 16:26:19"
+3640,373,229,Q10,"How would you safeguard your organisations brand?
+: Follow the organisations policies
+; Only send email to existing customers
+; Remove the company logo when sending to unknown customers
+; Remove your email signature
+","Follow the organisations policies
+","Only send email to existing customers
+",1605889579,gradedwrong,0.0000000,8,andy-brown-test,"2020-11-20 16:26:19"
+3641,374,229,Q11,"Which of the following are classed as Digital Communication Channels?
+: Blogging
+; Social Media
+; Email marketing
+; All of the above
+","All of the above
+","Email marketing
+",1605889579,gradedwrong,0.0000000,8,andy-brown-test,"2020-11-20 16:26:19"
+3642,375,229,Q12,"Which of the following is the least secure when accessing the internet?
+: log onto an open network in a local coffee shop
+; use your mobile phone from your home network
+; use your personal computer on the guest WiFi at work
+; log onto a secure train network with you phone whilst traveling
+","log onto an open network in a local coffee shop
+","use your mobile phone from your home network
+",1605889579,gradedwrong,0.0000000,8,andy-brown-test,"2020-11-20 16:26:19"
+3643,376,229,Q13,"Which of the following is the best method for planning your own learning activities?
+: Wait to see what opportunities become available that meet the gaps in your knowledge
+; Define a clear purpose and learning objectives aligned to your job role
+; Volunteer for every training opportunity that becomes available within the organisation
+; Select the same training that colleagues have applied to attend
+","Define a clear purpose and learning objectives aligned to your job role
+","Wait to see what opportunities become available that meet the gaps in your knowledge
+",1605889579,gradedwrong,0.0000000,8,andy-brown-test,"2020-11-20 16:26:19"
+3644,377,229,Q14,"Which of the following combinations should be considered when planning effective time management?
+: Customer, costs, capacity
+; People, price, product
+; Tasks, time, team
+; information, intention, implementation
+","Tasks, time, team
+","People, price, product
+",1605889579,gradedwrong,0.0000000,8,andy-brown-test,"2020-11-20 16:26:19"
+3645,378,229,Q15,"How may your continuous improvement benefit the business?
+: Increase productivity
+; Informs the business strategy
+; informs the learning and development budget
+; Increases costs
+","Increase productivity
+","Informs the business strategy
+",1605889579,gradedwrong,0.0000000,8,andy-brown-test,"2020-11-20 16:26:19"
+3646,379,229,Q16,"How can you BEST maintain current and future awareness of technologies?
+: Subscribe to professional memberships
+; Through continuous professional development
+; Through observation of colleagues
+; By having a large learning and development budget
+","Through continuous professional development
+","By having a large learning and development budget
+",1605889579,gradedwrong,0.0000000,8,andy-brown-test,"2020-11-20 16:26:19"
+3663,364,231,Q01,"Which of the following is NOT a video communication platform?
+: Email
+; Skype
+; Zoom
+; Microsoft Teams
+","Email
+","Email
+",1606332532,gradedright,1.0000000,11,johnstudent,"2020-11-25 19:28:52"
+3664,365,231,Q02,"Which of the following is NOT classed as a peripheral hardware devise?
+: Printer
+; Server
+; Webcam
+; Keyboard
+","Server
+","Server
+",1606332532,gradedright,1.0000000,11,johnstudent,"2020-11-25 19:28:52"
+3665,366,231,Q03,"Which of the following is primarily used for processing and presenting data?
+: Dropbox
+; SharePoint
+; Google Drive
+; PowerBI
+","PowerBI
+","PowerBI
+",1606332532,gradedright,1.0000000,11,johnstudent,"2020-11-25 19:28:52"
+3666,367,231,Q04,"Which of the following is NOT an example of handling data securely?
+: Save data to an encrypted USB when travelling
+; Always save data to the company SharePoint
+; Send data via an email to an intended recipient
+; Always back data up to the server
+","Send data via an email to an intended recipient
+","Send data via an email to an intended recipient
+",1606332532,gradedright,1.0000000,11,johnstudent,"2020-11-25 19:28:52"
+3667,368,231,Q05,"which of the following is NOT a data visualisation tool?
+: Tableau
+; Power BI
+; Excel
+; PDF
+","PDF
+","PDF
+",1606332532,gradedright,1.0000000,11,johnstudent,"2020-11-25 19:28:52"
+3668,369,231,Q06,"Which policy or procedure would cover information security?
+: HR Policy
+; Finance Policy
+; Information Risk Management Policy
+; Safeguarding Policy
+","Information Risk Management Policy
+","Information Risk Management Policy
+",1606332532,gradedright,1.0000000,11,johnstudent,"2020-11-25 19:28:52"
+3669,370,231,Q07,"Which of the following is a type of threat to an organisation?
+: A weak password
+; Not applying computer updates
+; New regulations
+; All of the above
+","All of the above
+","All of the above
+",1606332532,gradedright,1.0000000,11,johnstudent,"2020-11-25 19:28:52"
+3670,371,231,Q08,"Which of the following would be the most likely reason to change your password?
+: You could not access your files
+; You have updated your software or applied updates
+; You have been on holiday and away from your PC for two weeks
+; You have had a virus on your PC
+","You have had a virus on your PC
+","You have had a virus on your PC
+",1606332532,gradedright,1.0000000,11,johnstudent,"2020-11-25 19:28:52"
+3671,372,231,Q09,"Who should you inform if your encounter a data breach?
+: Information Commissioners Office
+; International Commissioners Office
+; Information Compliance Office
+; International Compliance Office
+","Information Commissioners Office
+","Information Commissioners Office
+",1606332532,gradedright,1.0000000,11,johnstudent,"2020-11-25 19:28:52"
+3672,373,231,Q10,"How would you safeguard your organisations brand?
+: Follow the organisations policies
+; Only send email to existing customers
+; Remove the company logo when sending to unknown customers
+; Remove your email signature
+","Follow the organisations policies
+","Follow the organisations policies
+",1606332532,gradedright,1.0000000,11,johnstudent,"2020-11-25 19:28:52"
+3673,374,231,Q11,"Which of the following are classed as Digital Communication Channels?
+: Blogging
+; Social Media
+; Email marketing
+; All of the above
+","All of the above
+","All of the above
+",1606332532,gradedright,1.0000000,11,johnstudent,"2020-11-25 19:28:52"
+3674,375,231,Q12,"Which of the following is the least secure when accessing the internet?
+: log onto an open network in a local coffee shop
+; use your mobile phone from your home network
+; use your personal computer on the guest WiFi at work
+; log onto a secure train network with you phone whilst traveling
+","log onto an open network in a local coffee shop
+","log onto an open network in a local coffee shop
+",1606332532,gradedright,1.0000000,11,johnstudent,"2020-11-25 19:28:52"
+3675,376,231,Q13,"Which of the following is the best method for planning your own learning activities?
+: Wait to see what opportunities become available that meet the gaps in your knowledge
+; Define a clear purpose and learning objectives aligned to your job role
+; Volunteer for every training opportunity that becomes available within the organisation
+; Select the same training that colleagues have applied to attend
+","Define a clear purpose and learning objectives aligned to your job role
+","Define a clear purpose and learning objectives aligned to your job role
+",1606332532,gradedright,1.0000000,11,johnstudent,"2020-11-25 19:28:52"
+3676,377,231,Q14,"Which of the following combinations should be considered when planning effective time management?
+: Customer, costs, capacity
+; People, price, product
+; Tasks, time, team
+; information, intention, implementation
+","Tasks, time, team
+","Tasks, time, team
+",1606332532,gradedright,1.0000000,11,johnstudent,"2020-11-25 19:28:52"
+3677,378,231,Q15,"How may your continuous improvement benefit the business?
+: Increase productivity
+; Informs the business strategy
+; informs the learning and development budget
+; Increases costs
+","Increase productivity
+","Increase productivity
+",1606332532,gradedright,1.0000000,11,johnstudent,"2020-11-25 19:28:52"
+3678,379,231,Q16,"How can you BEST maintain current and future awareness of technologies?
+: Subscribe to professional memberships
+; Through continuous professional development
+; Through observation of colleagues
+; By having a large learning and development budget
+","Through continuous professional development
+","Through continuous professional development
+",1606332532,gradedright,1.0000000,11,johnstudent,"2020-11-25 19:28:52"
+3679,416,232,Q01,"Two methods of customising the ribbon in the majority of Microsoft office products can be achieved by hovering over a ribbon icon and right clicking the mouse button, which of the following is a third option?
+: File/Account
+; File
+; File/Options
+; File/Info
+","File/Options
+","File/Options
+",1606332695,gradedright,1.0000000,11,johnstudent,"2020-11-25 19:31:35"
+3680,417,232,Q02,"Which type of software application is best suited when using numbers and formulas?
+: Documents
+; Images
+; Slides
+; Spreadsheets
+","Spreadsheets
+","Spreadsheets
+",1606332695,gradedright,1.0000000,11,johnstudent,"2020-11-25 19:31:35"
+3681,418,232,Q03,"What type of software platform is routinely used to manage interaction with customers and suppliers?
+: Internet
+; CRM
+; Intranet
+; CTO
+","CRM
+","CRM
+",1606332695,gradedright,1.0000000,11,johnstudent,"2020-11-25 19:31:35"
+3682,419,232,Q04,"Which of these platforms does not commonly feature a single sign-on function?
+: Internet
+; Intranet
+; CRM
+; CMS
+","Internet
+","Internet
+",1606332695,gradedright,1.0000000,11,johnstudent,"2020-11-25 19:31:35"
+3683,420,232,Q05,"Agile methodology has 4 key value statements, complete the value statement, ""Individuals and interactions over""
+: Processes and teams
+; Teams and techniques
+; Processes and tools
+; Processes and positions
+","Processes and tools
+","Processes and tools
+",1606332695,gradedright,1.0000000,11,johnstudent,"2020-11-25 19:31:35"
+3684,421,232,Q06,"Agile methodology has 4 key value statements, complete the value statement ""Working software over""?
+: Comprehensive lists
+; Comprehensive spreadsheets
+; Comprehensive documentation
+; Complicated rules
+","Comprehensive documentation
+","Comprehensive lists
+",1606332695,gradedwrong,0.0000000,11,johnstudent,"2020-11-25 19:31:35"
+3685,422,232,Q07,"A person working in finance is most likely to depend on which digital technology to perform their role?
+: Time-off management software
+; Spreadsheet processing software
+; Presentation software
+; Instant messaging software
+","Spreadsheet processing software
+","Spreadsheet processing software
+",1606332695,gradedright,1.0000000,11,johnstudent,"2020-11-25 19:31:35"
+3686,423,232,Q08,"A formal and detailed way to ensure that new employees are aware how to access and start using an organisation’s digital tools, could be?
+: Staff inductions
+; FAQs
+; How to guides
+; Webinars
+","FAQs
+","Staff inductions
+",1606332695,gradedwrong,0.0000000,11,johnstudent,"2020-11-25 19:31:35"
+3687,424,233,Q01,"Which of the following is NOT a social media tool?
+: GitHub
+; Facebook
+; Twitter
+; Snapchat
+","GitHub
+","GitHub
+",1606332846,gradedright,1.0000000,11,johnstudent,"2020-11-25 19:34:06"
+3688,425,233,Q02,"Which of the following is a feature of diagnosing digital problems?
+: Look at previous cases and history of faults.
+; Physical or virtual examination of the product
+; Testing functionality
+; All of the above
+","All of the above
+","All of the above
+",1606332846,gradedright,1.0000000,11,johnstudent,"2020-11-25 19:34:06"
+3689,426,233,Q03,"Which of the following is GOOD password management?
+: Use one single strong password for all uses
+; Save your password to your PC so you do not lose it
+; Change your password regularly
+; Always use a simple password you can remember
+","Change your password regularly
+","Change your password regularly
+",1606332846,gradedright,1.0000000,11,johnstudent,"2020-11-25 19:34:06"
+3690,427,233,Q04,"What does CMS stand for?
+: Customer messaging system
+; Content management system
+; Content messaging system
+; Computer management system
+","Content management system
+","Content management system
+",1606332846,gradedright,1.0000000,11,johnstudent,"2020-11-25 19:34:06"
+3691,428,233,Q05,"Which of the following Digital Channels are BEST used to communicate with different audiences?
+: Email
+; Zero level channel
+; Twitter
+; Presentation Software
+","Email
+","Email
+",1606332846,gradedright,1.0000000,11,johnstudent,"2020-11-25 19:34:06"
+3692,429,233,Q06,"Which of the following would you use a CRM system for?
+: Recording Financial information
+; Recording Management information
+; Recording HR information
+; Recording Customer Sales information
+","Recording Customer Sales information
+","Recording Customer Sales information
+",1606332846,gradedright,1.0000000,11,johnstudent,"2020-11-25 19:34:06"
+3693,430,233,Q07,"When supporting a customer which of the following is BEST practice?
+: Do not communicate with the customer throughout the task
+; Only inform the customer when the task is complete and log the completion
+; Only communicate with the customer as you log outcomes
+; Maintain communication and inform the customer of the outcome once completed
+","Maintain communication and inform the customer of the outcome once completed
+","Maintain communication and inform the customer of the outcome once completed
+",1606332846,gradedright,1.0000000,11,johnstudent,"2020-11-25 19:34:06"
+3694,431,233,Q08,"Which of the following SHOULD form part of an organisations code of ethics?
+: To guide an organisations recruitment strategy
+; For organisations to inform their strategic decisions
+; By an organisation to respond to complaints
+; To guide the organisation in its decisions, programs, and policies
+","To guide the organisation in its decisions, programs, and policies
+","To guide the organisation in its decisions, programs, and policies
+",1606332846,gradedright,1.0000000,11,johnstudent,"2020-11-25 19:34:06"
+3695,432,233,Q09,"When would you MOST likely escalate a problem?
+: When you cannot find the answer on the internet
+; When it is something you have never encountered before
+; When it is time to go home and the problem is not solved
+; After trying to resolve the problem and you have exhausted all possible solutions
+","After trying to resolve the problem and you have exhausted all possible solutions
+","After trying to resolve the problem and you have exhausted all possible solutions
+",1606332846,gradedright,1.0000000,11,johnstudent,"2020-11-25 19:34:06"
+3696,433,233,Q10,"Which of the following methods is BEST suited to coach or support external users with a fault?
+: Send them the technical / manufactures documents
+; Send them an email and try to explain what they need to do
+; Create a simple user guide
+; Email their line manager to let them know they need training
+","Create a simple user guide
+","Create a simple user guide
+",1606332846,gradedright,1.0000000,11,johnstudent,"2020-11-25 19:34:06"
+3697,364,234,Q01,"Which of the following is NOT a video communication platform?
+: Email
+; Skype
+; Zoom
+; Microsoft Teams
+","Email
+","Email
+",1607073825,gradedright,1.0000000,15,carly,"2020-12-04 09:23:45"
+3698,365,234,Q02,"Which of the following is NOT classed as a peripheral hardware devise?
+: Printer
+; Server
+; Webcam
+; Keyboard
+","Server
+","Server
+",1607073825,gradedright,1.0000000,15,carly,"2020-12-04 09:23:45"
+3699,366,234,Q03,"Which of the following is primarily used for processing and presenting data?
+: Dropbox
+; SharePoint
+; Google Drive
+; PowerBI
+","PowerBI
+","PowerBI
+",1607073825,gradedright,1.0000000,15,carly,"2020-12-04 09:23:45"
+3700,367,234,Q04,"Which of the following is NOT an example of handling data securely?
+: Save data to an encrypted USB when travelling
+; Always save data to the company SharePoint
+; Send data via an email to an intended recipient
+; Always back data up to the server
+","Send data via an email to an intended recipient
+","Send data via an email to an intended recipient
+",1607073825,gradedright,1.0000000,15,carly,"2020-12-04 09:23:45"
+3701,368,234,Q05,"which of the following is NOT a data visualisation tool?
+: Tableau
+; Power BI
+; Excel
+; PDF
+","PDF
+","PDF
+",1607073825,gradedright,1.0000000,15,carly,"2020-12-04 09:23:45"
+3702,369,234,Q06,"Which policy or procedure would cover information security?
+: HR Policy
+; Finance Policy
+; Information Risk Management Policy
+; Safeguarding Policy
+","Information Risk Management Policy
+","Information Risk Management Policy
+",1607073825,gradedright,1.0000000,15,carly,"2020-12-04 09:23:45"
+3703,370,234,Q07,"Which of the following is a type of threat to an organisation?
+: A weak password
+; Not applying computer updates
+; New regulations
+; All of the above
+","All of the above
+","All of the above
+",1607073825,gradedright,1.0000000,15,carly,"2020-12-04 09:23:45"
+3704,371,234,Q08,"Which of the following would be the most likely reason to change your password?
+: You could not access your files
+; You have updated your software or applied updates
+; You have been on holiday and away from your PC for two weeks
+; You have had a virus on your PC
+","You have had a virus on your PC
+","You have had a virus on your PC
+",1607073825,gradedright,1.0000000,15,carly,"2020-12-04 09:23:45"
+3705,372,234,Q09,"Who should you inform if your encounter a data breach?
+: Information Commissioners Office
+; International Commissioners Office
+; Information Compliance Office
+; International Compliance Office
+","Information Commissioners Office
+","Information Commissioners Office
+",1607073825,gradedright,1.0000000,15,carly,"2020-12-04 09:23:45"
+3706,373,234,Q10,"How would you safeguard your organisations brand?
+: Follow the organisations policies
+; Only send email to existing customers
+; Remove the company logo when sending to unknown customers
+; Remove your email signature
+","Follow the organisations policies
+","Follow the organisations policies
+",1607073825,gradedright,1.0000000,15,carly,"2020-12-04 09:23:45"
+3707,374,234,Q11,"Which of the following are classed as Digital Communication Channels?
+: Blogging
+; Social Media
+; Email marketing
+; All of the above
+","All of the above
+","All of the above
+",1607073825,gradedright,1.0000000,15,carly,"2020-12-04 09:23:45"
+3708,375,234,Q12,"Which of the following is the least secure when accessing the internet?
+: log onto an open network in a local coffee shop
+; use your mobile phone from your home network
+; use your personal computer on the guest WiFi at work
+; log onto a secure train network with you phone whilst traveling
+","log onto an open network in a local coffee shop
+","log onto an open network in a local coffee shop
+",1607073825,gradedright,1.0000000,15,carly,"2020-12-04 09:23:45"
+3709,376,234,Q13,"Which of the following is the best method for planning your own learning activities?
+: Wait to see what opportunities become available that meet the gaps in your knowledge
+; Define a clear purpose and learning objectives aligned to your job role
+; Volunteer for every training opportunity that becomes available within the organisation
+; Select the same training that colleagues have applied to attend
+","Define a clear purpose and learning objectives aligned to your job role
+","Define a clear purpose and learning objectives aligned to your job role
+",1607073825,gradedright,1.0000000,15,carly,"2020-12-04 09:23:45"
+3710,377,234,Q14,"Which of the following combinations should be considered when planning effective time management?
+: Customer, costs, capacity
+; People, price, product
+; Tasks, time, team
+; information, intention, implementation
+","Tasks, time, team
+","Tasks, time, team
+",1607073825,gradedright,1.0000000,15,carly,"2020-12-04 09:23:45"
+3711,378,234,Q15,"How may your continuous improvement benefit the business?
+: Increase productivity
+; Informs the business strategy
+; informs the learning and development budget
+; Increases costs
+","Increase productivity
+","Increase productivity
+",1607073825,gradedright,1.0000000,15,carly,"2020-12-04 09:23:45"
+3712,379,234,Q16,"How can you BEST maintain current and future awareness of technologies?
+: Subscribe to professional memberships
+; Through continuous professional development
+; Through observation of colleagues
+; By having a large learning and development budget
+","Through continuous professional development
+","Through continuous professional development
+",1607073825,gradedright,1.0000000,15,carly,"2020-12-04 09:23:45"
+3713,416,235,Q01,"Two methods of customising the ribbon in the majority of Microsoft office products can be achieved by hovering over a ribbon icon and right clicking the mouse button, which of the following is a third option?
+: File/Options
+; File
+; File/Info
+; File/Account
+","File/Options
+","File/Account
+",1607074583,gradedwrong,0.0000000,15,carly,"2020-12-04 09:36:23"
+3714,417,235,Q02,"Which type of software application is best suited when using numbers and formulas?
+: Spreadsheets
+; Slides
+; Images
+; Documents
+","Spreadsheets
+","Spreadsheets
+",1607074583,gradedright,1.0000000,15,carly,"2020-12-04 09:36:23"
+3715,418,235,Q03,"What type of software platform is routinely used to manage interaction with customers and suppliers?
+: CTO
+; Internet
+; Intranet
+; CRM
+","CRM
+","CRM
+",1607074583,gradedright,1.0000000,15,carly,"2020-12-04 09:36:23"
+3716,419,235,Q04,"Which of these platforms does not commonly feature a single sign-on function?
+: CRM
+; Intranet
+; CMS
+; Internet
+","Internet
+","Internet
+",1607074583,gradedright,1.0000000,15,carly,"2020-12-04 09:36:23"
+3717,420,235,Q05,"Agile methodology has 4 key value statements, complete the value statement, ""Individuals and interactions over""
+: Processes and positions
+; Processes and teams
+; Teams and techniques
+; Processes and tools
+","Processes and tools
+","Teams and techniques
+",1607074583,gradedwrong,0.0000000,15,carly,"2020-12-04 09:36:23"
+3718,421,235,Q06,"Agile methodology has 4 key value statements, complete the value statement ""Working software over""?
+: Complicated rules
+; Comprehensive spreadsheets
+; Comprehensive documentation
+; Comprehensive lists
+","Comprehensive documentation
+","Complicated rules
+",1607074583,gradedwrong,0.0000000,15,carly,"2020-12-04 09:36:23"
+3719,422,235,Q07,"A person working in finance is most likely to depend on which digital technology to perform their role?
+: Presentation software
+; Time-off management software
+; Instant messaging software
+; Spreadsheet processing software
+","Spreadsheet processing software
+","Spreadsheet processing software
+",1607074583,gradedright,1.0000000,15,carly,"2020-12-04 09:36:23"
+3720,423,235,Q08,"A formal and detailed way to ensure that new employees are aware how to access and start using an organisation’s digital tools, could be?
+: Webinars
+; Staff inductions
+; How to guides
+; FAQs
+","FAQs
+","Staff inductions
+",1607074583,gradedwrong,0.0000000,15,carly,"2020-12-04 09:36:23"
+3721,424,236,Q01,"Which of the following is NOT a social media tool?
+: Facebook
+; Twitter
+; Snapchat
+; GitHub
+","GitHub
+","GitHub
+",1607076055,gradedright,1.0000000,15,carly,"2020-12-04 10:00:55"
+3722,425,236,Q02,"Which of the following is a feature of diagnosing digital problems?
+: Look at previous cases and history of faults.
+; Physical or virtual examination of the product
+; Testing functionality
+; All of the above
+","All of the above
+","All of the above
+",1607076055,gradedright,1.0000000,15,carly,"2020-12-04 10:00:55"
+3723,426,236,Q03,"Which of the following is GOOD password management?
+: Save your password to your PC so you do not lose it
+; Use one single strong password for all uses
+; Change your password regularly
+; Always use a simple password you can remember
+","Change your password regularly
+","Change your password regularly
+",1607076055,gradedright,1.0000000,15,carly,"2020-12-04 10:00:55"
+3724,427,236,Q04,"What does CMS stand for?
+: Content messaging system
+; Customer messaging system
+; Content management system
+; Computer management system
+","Content management system
+","Computer management system
+",1607076055,gradedwrong,0.0000000,15,carly,"2020-12-04 10:00:55"
+3725,428,236,Q05,"Which of the following Digital Channels are BEST used to communicate with different audiences?
+: Zero level channel
+; Presentation Software
+; Twitter
+; Email
+","Email
+","Zero level channel
+",1607076055,gradedwrong,0.0000000,15,carly,"2020-12-04 10:00:55"
+3726,429,236,Q06,"Which of the following would you use a CRM system for?
+: Recording Financial information
+; Recording Management information
+; Recording Customer Sales information
+; Recording HR information
+","Recording Customer Sales information
+","Recording Customer Sales information
+",1607076055,gradedright,1.0000000,15,carly,"2020-12-04 10:00:55"
+3727,430,236,Q07,"When supporting a customer which of the following is BEST practice?
+: Maintain communication and inform the customer of the outcome once completed
+; Do not communicate with the customer throughout the task
+; Only communicate with the customer as you log outcomes
+; Only inform the customer when the task is complete and log the completion
+","Maintain communication and inform the customer of the outcome once completed
+","Maintain communication and inform the customer of the outcome once completed
+",1607076055,gradedright,1.0000000,15,carly,"2020-12-04 10:00:55"
+3728,431,236,Q08,"Which of the following SHOULD form part of an organisations code of ethics?
+: By an organisation to respond to complaints
+; To guide the organisation in its decisions, programs, and policies
+; For organisations to inform their strategic decisions
+; To guide an organisations recruitment strategy
+","To guide the organisation in its decisions, programs, and policies
+","To guide the organisation in its decisions, programs, and policies
+",1607076055,gradedright,1.0000000,15,carly,"2020-12-04 10:00:55"
+3729,432,236,Q09,"When would you MOST likely escalate a problem?
+: When it is something you have never encountered before
+; When it is time to go home and the problem is not solved
+; After trying to resolve the problem and you have exhausted all possible solutions
+; When you cannot find the answer on the internet
+","After trying to resolve the problem and you have exhausted all possible solutions
+","After trying to resolve the problem and you have exhausted all possible solutions
+",1607076055,gradedright,1.0000000,15,carly,"2020-12-04 10:00:55"
+3730,433,236,Q10,"Which of the following methods is BEST suited to coach or support external users with a fault?
+: Send them the technical / manufactures documents
+; Send them an email and try to explain what they need to do
+; Email their line manager to let them know they need training
+; Create a simple user guide
+","Create a simple user guide
+","Create a simple user guide
+",1607076055,gradedright,1.0000000,15,carly,"2020-12-04 10:00:55"
+3731,364,237,Q01,"Which of the following is NOT a video communication platform?
+: Email
+; Skype
+; Zoom
+; Microsoft Teams
+","Email
+","Email
+",1607513154,gradedright,1.0000000,12,jeannette,"2020-12-09 11:25:54"
+3732,365,237,Q02,"Which of the following is NOT classed as a peripheral hardware devise?
+: Printer
+; Server
+; Webcam
+; Keyboard
+","Server
+","Server
+",1607513154,gradedright,1.0000000,12,jeannette,"2020-12-09 11:25:54"
+3733,366,237,Q03,"Which of the following is primarily used for processing and presenting data?
+: Dropbox
+; SharePoint
+; Google Drive
+; PowerBI
+","PowerBI
+","PowerBI
+",1607513154,gradedright,1.0000000,12,jeannette,"2020-12-09 11:25:54"
+3734,367,237,Q04,"Which of the following is NOT an example of handling data securely?
+: Save data to an encrypted USB when travelling
+; Always save data to the company SharePoint
+; Send data via an email to an intended recipient
+; Always back data up to the server
+","Send data via an email to an intended recipient
+","Send data via an email to an intended recipient
+",1607513154,gradedright,1.0000000,12,jeannette,"2020-12-09 11:25:54"
+3735,368,237,Q05,"which of the following is NOT a data visualisation tool?
+: Tableau
+; Power BI
+; Excel
+; PDF
+","PDF
+","PDF
+",1607513154,gradedright,1.0000000,12,jeannette,"2020-12-09 11:25:54"
+3736,369,237,Q06,"Which policy or procedure would cover information security?
+: HR Policy
+; Finance Policy
+; Information Risk Management Policy
+; Safeguarding Policy
+","Information Risk Management Policy
+","Information Risk Management Policy
+",1607513154,gradedright,1.0000000,12,jeannette,"2020-12-09 11:25:54"
+3737,370,237,Q07,"Which of the following is a type of threat to an organisation?
+: A weak password
+; Not applying computer updates
+; New regulations
+; All of the above
+","All of the above
+","All of the above
+",1607513154,gradedright,1.0000000,12,jeannette,"2020-12-09 11:25:54"
+3738,371,237,Q08,"Which of the following would be the most likely reason to change your password?
+: You could not access your files
+; You have updated your software or applied updates
+; You have been on holiday and away from your PC for two weeks
+; You have had a virus on your PC
+","You have had a virus on your PC
+","You have had a virus on your PC
+",1607513154,gradedright,1.0000000,12,jeannette,"2020-12-09 11:25:54"
+3739,372,237,Q09,"Who should you inform if your encounter a data breach?
+: Information Commissioners Office
+; International Commissioners Office
+; Information Compliance Office
+; International Compliance Office
+","Information Commissioners Office
+","Information Commissioners Office
+",1607513154,gradedright,1.0000000,12,jeannette,"2020-12-09 11:25:54"
+3740,373,237,Q10,"How would you safeguard your organisations brand?
+: Follow the organisations policies
+; Only send email to existing customers
+; Remove the company logo when sending to unknown customers
+; Remove your email signature
+","Follow the organisations policies
+","Follow the organisations policies
+",1607513154,gradedright,1.0000000,12,jeannette,"2020-12-09 11:25:54"
+3741,374,237,Q11,"Which of the following are classed as Digital Communication Channels?
+: Blogging
+; Social Media
+; Email marketing
+; All of the above
+","All of the above
+","All of the above
+",1607513154,gradedright,1.0000000,12,jeannette,"2020-12-09 11:25:54"
+3742,375,237,Q12,"Which of the following is the least secure when accessing the internet?
+: log onto an open network in a local coffee shop
+; use your mobile phone from your home network
+; use your personal computer on the guest WiFi at work
+; log onto a secure train network with you phone whilst traveling
+","log onto an open network in a local coffee shop
+","log onto an open network in a local coffee shop
+",1607513154,gradedright,1.0000000,12,jeannette,"2020-12-09 11:25:54"
+3743,376,237,Q13,"Which of the following is the best method for planning your own learning activities?
+: Wait to see what opportunities become available that meet the gaps in your knowledge
+; Define a clear purpose and learning objectives aligned to your job role
+; Volunteer for every training opportunity that becomes available within the organisation
+; Select the same training that colleagues have applied to attend
+","Define a clear purpose and learning objectives aligned to your job role
+","Define a clear purpose and learning objectives aligned to your job role
+",1607513154,gradedright,1.0000000,12,jeannette,"2020-12-09 11:25:54"
+3744,377,237,Q14,"Which of the following combinations should be considered when planning effective time management?
+: Customer, costs, capacity
+; People, price, product
+; Tasks, time, team
+; information, intention, implementation
+","Tasks, time, team
+","Tasks, time, team
+",1607513154,gradedright,1.0000000,12,jeannette,"2020-12-09 11:25:54"
+3745,378,237,Q15,"How may your continuous improvement benefit the business?
+: Increase productivity
+; Informs the business strategy
+; informs the learning and development budget
+; Increases costs
+","Increase productivity
+","Increase productivity
+",1607513154,gradedright,1.0000000,12,jeannette,"2020-12-09 11:25:54"
+3746,379,237,Q16,"How can you BEST maintain current and future awareness of technologies?
+: Subscribe to professional memberships
+; Through continuous professional development
+; Through observation of colleagues
+; By having a large learning and development budget
+","Through continuous professional development
+","Through continuous professional development
+",1607513154,gradedright,1.0000000,12,jeannette,"2020-12-09 11:25:54"
+3747,364,238,Q01,"Which of the following is NOT a video communication platform?
+: Email
+; Skype
+; Zoom
+; Microsoft Teams
+","Email
+","Email
+",1607513068,gradedright,1.0000000,13,sam,"2020-12-09 11:24:28"
+3748,365,238,Q02,"Which of the following is NOT classed as a peripheral hardware devise?
+: Printer
+; Server
+; Webcam
+; Keyboard
+","Server
+","Server
+",1607513068,gradedright,1.0000000,13,sam,"2020-12-09 11:24:28"
+3749,366,238,Q03,"Which of the following is primarily used for processing and presenting data?
+: Dropbox
+; SharePoint
+; Google Drive
+; PowerBI
+","PowerBI
+","PowerBI
+",1607513068,gradedright,1.0000000,13,sam,"2020-12-09 11:24:28"
+3750,367,238,Q04,"Which of the following is NOT an example of handling data securely?
+: Save data to an encrypted USB when travelling
+; Always save data to the company SharePoint
+; Send data via an email to an intended recipient
+; Always back data up to the server
+","Send data via an email to an intended recipient
+","Send data via an email to an intended recipient
+",1607513068,gradedright,1.0000000,13,sam,"2020-12-09 11:24:28"
+3751,368,238,Q05,"which of the following is NOT a data visualisation tool?
+: Tableau
+; Power BI
+; Excel
+; PDF
+","PDF
+","PDF
+",1607513068,gradedright,1.0000000,13,sam,"2020-12-09 11:24:28"
+3752,369,238,Q06,"Which policy or procedure would cover information security?
+: HR Policy
+; Finance Policy
+; Information Risk Management Policy
+; Safeguarding Policy
+","Information Risk Management Policy
+","Information Risk Management Policy
+",1607513068,gradedright,1.0000000,13,sam,"2020-12-09 11:24:28"
+3753,370,238,Q07,"Which of the following is a type of threat to an organisation?
+: A weak password
+; Not applying computer updates
+; New regulations
+; All of the above
+","All of the above
+","All of the above
+",1607513068,gradedright,1.0000000,13,sam,"2020-12-09 11:24:28"
+3754,371,238,Q08,"Which of the following would be the most likely reason to change your password?
+: You could not access your files
+; You have updated your software or applied updates
+; You have been on holiday and away from your PC for two weeks
+; You have had a virus on your PC
+","You have had a virus on your PC
+","You have had a virus on your PC
+",1607513068,gradedright,1.0000000,13,sam,"2020-12-09 11:24:28"
+3755,372,238,Q09,"Who should you inform if your encounter a data breach?
+: Information Commissioners Office
+; International Commissioners Office
+; Information Compliance Office
+; International Compliance Office
+","Information Commissioners Office
+","Information Commissioners Office
+",1607513068,gradedright,1.0000000,13,sam,"2020-12-09 11:24:28"
+3756,373,238,Q10,"How would you safeguard your organisations brand?
+: Follow the organisations policies
+; Only send email to existing customers
+; Remove the company logo when sending to unknown customers
+; Remove your email signature
+","Follow the organisations policies
+","Follow the organisations policies
+",1607513068,gradedright,1.0000000,13,sam,"2020-12-09 11:24:28"
+3757,374,238,Q11,"Which of the following are classed as Digital Communication Channels?
+: Blogging
+; Social Media
+; Email marketing
+; All of the above
+","All of the above
+","All of the above
+",1607513068,gradedright,1.0000000,13,sam,"2020-12-09 11:24:28"
+3758,375,238,Q12,"Which of the following is the least secure when accessing the internet?
+: log onto an open network in a local coffee shop
+; use your mobile phone from your home network
+; use your personal computer on the guest WiFi at work
+; log onto a secure train network with you phone whilst traveling
+","log onto an open network in a local coffee shop
+","log onto an open network in a local coffee shop
+",1607513068,gradedright,1.0000000,13,sam,"2020-12-09 11:24:28"
+3759,376,238,Q13,"Which of the following is the best method for planning your own learning activities?
+: Wait to see what opportunities become available that meet the gaps in your knowledge
+; Define a clear purpose and learning objectives aligned to your job role
+; Volunteer for every training opportunity that becomes available within the organisation
+; Select the same training that colleagues have applied to attend
+","Define a clear purpose and learning objectives aligned to your job role
+","Define a clear purpose and learning objectives aligned to your job role
+",1607513068,gradedright,1.0000000,13,sam,"2020-12-09 11:24:28"
+3760,377,238,Q14,"Which of the following combinations should be considered when planning effective time management?
+: Customer, costs, capacity
+; People, price, product
+; Tasks, time, team
+; information, intention, implementation
+","Tasks, time, team
+","Tasks, time, team
+",1607513068,gradedright,1.0000000,13,sam,"2020-12-09 11:24:28"
+3761,378,238,Q15,"How may your continuous improvement benefit the business?
+: Increase productivity
+; Informs the business strategy
+; informs the learning and development budget
+; Increases costs
+","Increase productivity
+","Increase productivity
+",1607513068,gradedright,1.0000000,13,sam,"2020-12-09 11:24:28"
+3762,379,238,Q16,"How can you BEST maintain current and future awareness of technologies?
+: Subscribe to professional memberships
+; Through continuous professional development
+; Through observation of colleagues
+; By having a large learning and development budget
+","Through continuous professional development
+","Through continuous professional development
+",1607513068,gradedright,1.0000000,13,sam,"2020-12-09 11:24:28"
+3763,416,239,Q01,"Two methods of customising the ribbon in the majority of Microsoft office products can be achieved by hovering over a ribbon icon and right clicking the mouse button, which of the following is a third option?
+: File/Info
+; File/Account
+; File
+; File/Options
+","File/Options
+","File/Options
+",1607513450,gradedright,1.0000000,13,sam,"2020-12-09 11:30:50"
+3764,417,239,Q02,"Which type of software application is best suited when using numbers and formulas?
+: Spreadsheets
+; Slides
+; Documents
+; Images
+","Spreadsheets
+","Spreadsheets
+",1607513450,gradedright,1.0000000,13,sam,"2020-12-09 11:30:50"
+3765,418,239,Q03,"What type of software platform is routinely used to manage interaction with customers and suppliers?
+: CTO
+; Internet
+; CRM
+; Intranet
+","CRM
+","CRM
+",1607513450,gradedright,1.0000000,13,sam,"2020-12-09 11:30:50"
+3766,419,239,Q04,"Which of these platforms does not commonly feature a single sign-on function?
+: CMS
+; Intranet
+; CRM
+; Internet
+","Internet
+","Internet
+",1607513450,gradedright,1.0000000,13,sam,"2020-12-09 11:30:50"
+3767,420,239,Q05,"Agile methodology has 4 key value statements, complete the value statement, ""Individuals and interactions over""
+: Teams and techniques
+; Processes and teams
+; Processes and tools
+; Processes and positions
+","Processes and tools
+","Processes and tools
+",1607513450,gradedright,1.0000000,13,sam,"2020-12-09 11:30:50"
+3768,421,239,Q06,"Agile methodology has 4 key value statements, complete the value statement ""Working software over""?
+: Comprehensive lists
+; Comprehensive spreadsheets
+; Complicated rules
+; Comprehensive documentation
+","Comprehensive documentation
+","Complicated rules
+",1607513450,gradedwrong,0.0000000,13,sam,"2020-12-09 11:30:50"
+3769,422,239,Q07,"A person working in finance is most likely to depend on which digital technology to perform their role?
+: Time-off management software
+; Instant messaging software
+; Spreadsheet processing software
+; Presentation software
+","Spreadsheet processing software
+","Spreadsheet processing software
+",1607513450,gradedright,1.0000000,13,sam,"2020-12-09 11:30:50"
+3770,423,239,Q08,"A formal and detailed way to ensure that new employees are aware how to access and start using an organisation’s digital tools, could be?
+: How to guides
+; FAQs
+; Webinars
+; Staff inductions
+","FAQs
+","Staff inductions
+",1607513450,gradedwrong,0.0000000,13,sam,"2020-12-09 11:30:50"
+3771,424,240,Q01,"Which of the following is NOT a social media tool?
+: Twitter
+; GitHub
+; Snapchat
+; Facebook
+","GitHub
+","GitHub
+",1607514342,gradedright,1.0000000,13,sam,"2020-12-09 11:45:42"
+3772,425,240,Q02,"Which of the following is a feature of diagnosing digital problems?
+: Look at previous cases and history of faults.
+; Physical or virtual examination of the product
+; Testing functionality
+; All of the above
+","All of the above
+","All of the above
+",1607514342,gradedright,1.0000000,13,sam,"2020-12-09 11:45:42"
+3773,426,240,Q03,"Which of the following is GOOD password management?
+: Change your password regularly
+; Use one single strong password for all uses
+; Always use a simple password you can remember
+; Save your password to your PC so you do not lose it
+","Change your password regularly
+","Change your password regularly
+",1607514342,gradedright,1.0000000,13,sam,"2020-12-09 11:45:42"
+3774,427,240,Q04,"What does CMS stand for?
+: Customer messaging system
+; Content messaging system
+; Computer management system
+; Content management system
+","Content management system
+","Content management system
+",1607514342,gradedright,1.0000000,13,sam,"2020-12-09 11:45:42"
+3775,428,240,Q05,"Which of the following Digital Channels are BEST used to communicate with different audiences?
+: Email
+; Presentation Software
+; Twitter
+; Zero level channel
+","Email
+","Zero level channel
+",1607514342,gradedwrong,0.0000000,13,sam,"2020-12-09 11:45:42"
+3776,429,240,Q06,"Which of the following would you use a CRM system for?
+: Recording Financial information
+; Recording Customer Sales information
+; Recording HR information
+; Recording Management information
+","Recording Customer Sales information
+","Recording Customer Sales information
+",1607514342,gradedright,1.0000000,13,sam,"2020-12-09 11:45:42"
+3777,430,240,Q07,"When supporting a customer which of the following is BEST practice?
+: Maintain communication and inform the customer of the outcome once completed
+; Only communicate with the customer as you log outcomes
+; Do not communicate with the customer throughout the task
+; Only inform the customer when the task is complete and log the completion
+","Maintain communication and inform the customer of the outcome once completed
+","Maintain communication and inform the customer of the outcome once completed
+",1607514342,gradedright,1.0000000,13,sam,"2020-12-09 11:45:42"
+3778,431,240,Q08,"Which of the following SHOULD form part of an organisations code of ethics?
+: To guide an organisations recruitment strategy
+; For organisations to inform their strategic decisions
+; To guide the organisation in its decisions, programs, and policies
+; By an organisation to respond to complaints
+","To guide the organisation in its decisions, programs, and policies
+","To guide the organisation in its decisions, programs, and policies
+",1607514342,gradedright,1.0000000,13,sam,"2020-12-09 11:45:42"
+3779,432,240,Q09,"When would you MOST likely escalate a problem?
+: When you cannot find the answer on the internet
+; When it is time to go home and the problem is not solved
+; After trying to resolve the problem and you have exhausted all possible solutions
+; When it is something you have never encountered before
+","After trying to resolve the problem and you have exhausted all possible solutions
+","After trying to resolve the problem and you have exhausted all possible solutions
+",1607514342,gradedright,1.0000000,13,sam,"2020-12-09 11:45:42"
+3780,433,240,Q10,"Which of the following methods is BEST suited to coach or support external users with a fault?
+: Send them the technical / manufactures documents
+; Send them an email and try to explain what they need to do
+; Email their line manager to let them know they need training
+; Create a simple user guide
+","Create a simple user guide
+","Create a simple user guide
+",1607514342,gradedright,1.0000000,13,sam,"2020-12-09 11:45:42"
+3937,483,256,CAT1-04,"Which of the following is NOT an example of handling data securely?
+: Always save data to the company SharePoint
+; Send data via an email to an intended recipient
+; Always back data up to the server
+; Save data to an encrypted USB when travelling
+","Send data via an email to an intended recipient
+","Save data to an encrypted USB when travelling
+",1608811674,gradedwrong,0.0000000,5,andyb@accelerate-people.co.uk,"2020-12-24 12:07:54"
+3938,508,256,CAT2-04,"Who should you inform if your encounter a data breach?
+: Information Commissioners Office
+; International Commissioners Office
+; Information Compliance Office
+; International Compliance Office
+","Information Commissioners Office
+","International Compliance Office
+",1608811674,gradedwrong,0.0000000,5,andyb@accelerate-people.co.uk,"2020-12-24 12:07:54"
+3939,483,257,CAT1-04,"Which of the following is NOT an example of handling data securely?
+: Send data via an email to an intended recipient
+; Always back data up to the server
+; Save data to an encrypted USB when travelling
+; Always save data to the company SharePoint
+","Send data via an email to an intended recipient
+","Send data via an email to an intended recipient
+",1608812142,gradedright,1.0000000,8,andy-brown-test,"2020-12-24 12:15:42"
+3940,508,257,CAT2-04,"Who should you inform if your encounter a data breach?
+: Information Compliance Office
+; International Commissioners Office
+; Information Commissioners Office
+; International Compliance Office
+","Information Commissioners Office
+","International Compliance Office
+",1608812142,gradedwrong,0.0000000,8,andy-brown-test,"2020-12-24 12:15:42"
+3941,480,258,CAT1-01,"Which of the following is NOT a video communication platform?
+: Microsoft Teams
+; Email
+; Zoom
+; Skype
+","Email
+","Microsoft Teams
+",1608812230,gradedwrong,0.0000000,8,andy-brown-test,"2020-12-24 12:17:10"
+3942,506,258,CAT2-02,"Which of the following is a type of threat to an organisation?
+: A weak password
+; Not applying computer updates
+; New regulations
+; All of the above
+","All of the above
+","New regulations
+",1608812230,gradedwrong,0.0000000,8,andy-brown-test,"2020-12-24 12:17:10"
+3943,487,259,CAT1-03,"Which of the following is primarily used for processing and presenting data?
+: SharePoint
+; Dropbox
+; PowerBI
+; Google Drive
+","PowerBI
+","SharePoint
+",1608812375,gradedwrong,0.0000000,8,andy-brown-test,"2020-12-24 12:19:35"
+3944,505,259,CAT2-01,"Which policy or procedure would cover information security?
+: HR Policy
+; Finance Policy
+; Information Risk Management Policy
+; Safeguarding Policy
+","Information Risk Management Policy
+","HR Policy
+",1608812375,gradedwrong,0.0000000,8,andy-brown-test,"2020-12-24 12:19:35"
+3945,481,260,CAT1-05,"Which of the following is NOT classed as a peripheral hardware devise?
+: Webcam
+; Printer
+; Keyboard
+; Server
+","Server
+","Webcam
+",1608812511,gradedwrong,0.0000000,8,andy-brown-test,"2020-12-24 12:21:51"
+3946,507,260,CAT2-03,"Which of the following would be the most likely reason to change your password?
+: You have been on holiday and away from your PC for two weeks
+; You have updated your software or applied updates
+; You have had a virus on your PC
+; You could not access your files
+","You have had a virus on your PC
+","You have been on holiday and away from your PC for two weeks
+",1608812511,gradedwrong,0.0000000,8,andy-brown-test,"2020-12-24 12:21:51"
+3947,480,261,CAT1-01,"Which of the following is NOT a video communication platform?
+: Zoom
+; Skype
+; Email
+; Microsoft Teams
+","Email
+","Email
+",1608816177,gradedright,1.0000000,8,andy-brown-test,"2020-12-24 13:22:57"
+3948,509,261,CAT2-05,"How would you safeguard your organisations brand?
+: Only send email to existing customers
+; Remove the company logo when sending to unknown customers
+; Remove your email signature
+; Follow the organisations policies
+","Follow the organisations policies
+","Follow the organisations policies
+",1608816177,gradedright,1.0000000,8,andy-brown-test,"2020-12-24 13:22:57"

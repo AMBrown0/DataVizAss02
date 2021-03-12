@@ -40,103 +40,18 @@ def get_file_path(directory_name,filename):
 # Import Data  
 # =============================================================================
 
-data_orginal_file=get_file_path(r"C:\Users\Andy.JIVEDIVE.000\OneDrive - University of Buckingham\Assignments\Final Project\Python","DST-Test-Matrix-01-item-difficulty.xlsx")
+data_orginal_file=get_file_path(r"C:\Users\Andy.JIVEDIVE.000\OneDrive - University of Buckingham\Assignments\Final Project\Python","DST_CORE_1-Digital Support Technician - Core-grades.csv")
 
 #dataset=pd.read_excel(data_orginal_file, sheet_name="TestData",skiprows=range(1,1))
-dataset=pd.read_excel(data_orginal_file, sheet_name="TestData")
+#dataset=pd.read_excel(data_orginal_file, sheet_name="DST_CORE_1-Digital Support Tech")
+#dataset_df=pd.read_excel(data_orginal_file)
+dataset_df=pd.read_csv(data_orginal_file)
 
 #Headers and redundant columns
-dataset_cleansed=dataset.iloc[1:,1:]
+#dataset_cleansed=dataset.iloc[1:,1:]
 
 
 
 # =============================================================================
 # Classes and Functions
 # =============================================================================
-class test_moodle_quiz():
-  def setup_method(self, method):
-    self.driver = webdriver.Chrome()
-    self.vars = {}
-  
-  def teardown_method(self, method):
-    self.driver.quit()
-  
-  def complete_all_questions(self):
-    self.driver.get("https://assessment.accelerate-people.co.uk/mod/quiz/view.php?id=7")
-    
-    moodle_user="andy-brown-test"
-    moodle_password="LbZ9^D&x68&3"
-    self.driver.find_element(By.ID, "username").click()
-    self.driver.find_element(By.ID, "username").send_keys(moodle_user)
-  
-    
-    
-    self.driver.find_element(By.ID, "password").click()
-    self.driver.find_element(By.ID, "password").send_keys(moodle_password)
-
-    self.driver.find_element(By.ID, "loginbtn").click()
-
-    #Click re-attempt quiz
-    self.driver.find_element_by_class_name('btn-secondary').click()
-    
-    #Becuuse there is a time limit click the start box
-    #time.sleep(4)
-    #self.driver.find_element(By.ID, "moodle-dialogue-yui_3_17_2_1_1605038957469_56-wrap-header-text").click()
-    #self.driver.find_element(By.ID, "moodle-dialogue-yui_3_17_2_1_1605039248659_55-wrap-header-text").click()
-    self.driver.find_element(By.ID, "id_submitbutton").click()
-  
-    
-    timestring=datetime.today().strftime('%Y-%m-%d-%H-%M-%S')
-    quizname="DSTv2"
-    test_suffix="Test2"
-    
-    screenshot_on=False
-
-    #Read in next set of answer
-    set=0
-    for attempt in dataset_cleansed.iterrows():
-        #print("Set={} Row=<{}>".format(attempt,row))
-        set+=1
-        answers=attempt[1]
-        question_no=0
-        
-        
-        for answer in answers:
-            question_no+=1    
-            anaswer_no=answer_lookup.get(answer)
-            print("Attempt[{}] Question[{}] Answer={}".format(set,question_no,answer))
-            this_answer="input[type='radio'][value='{answer}']".format(answer=anaswer_no)
-            self.driver.find_element_by_css_selector(this_answer).click()
-            if (screenshot_on == True):
-                screenshot_name='{}-{}-Q{}-{}.png'.format(quizname,test_suffix,question_no,timestring)
-                self.driver.save_screenshot(screenshot_name)
-                      
-            if (question_no < len(answers)):
-                self.driver.find_element_by_css_selector("input[type='submit'][name='next']").click()
-        
-        #Complete quiz for next attempt
-        self.driver.find_element_by_css_selector("input[type='submit'][name='next']").click()
-        # self.driver.find_element_by_css_selector("button[type='submit'][class='btn btn-secondary']").click()
-        # self.driver.find_element_by_xpath('//button[text()="Submit all and finish"]').click()
-        time.sleep(1)
-        self.driver.find_element_by_css_selector("button[type='submit'][class='btn btn-secondary']").click()
-        self.driver.find_element_by_css_selector("input[type='submit'][name='next']").click()
-        self.driver.find_element_by_xpath('//button[text()="Submit all and finish"]').click()
-        time.sleep(1)
-    
-    
-        self.driver.find_element_by_css_selector("input[type='button'][class='btn btn-primary']").click()
-    
-        #Re-attempt quiz button
-        time.sleep(2)
-        #self.driver.find_element_by_css_selector("button[type='submit'][name='Re-attempt quiz']").click()
-        #self.driver.find_element(By.ID, "single_button5fb1418380b1031").click()
-        self.driver.find_element_by_css_selector("button[type='submit'][class='btn btn-secondary']").click()
-        self.driver.find_element(By.ID, "id_submitbutton").click()
-  
-    print("=======================================TEST COMPLETE =============================")
- 
-  
-a=test_moodle_quiz()
-a.setup_method("")
-a.complete_all_questions()
